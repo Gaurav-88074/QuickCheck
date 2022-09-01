@@ -1,0 +1,2271 @@
+450Q/Array/Q1.class
+450Q/Array/Q1.java
+450Q/Array/Q11.class
+450Q/Array/Q11.java
+450Q/Array/Q12.class
+450Q/Array/Q12.java
+450Q/Array/Q13.class
+450Q/Array/Q13.java
+450Q/Array/Q14.class
+450Q/Array/Q14.java
+450Q/Array/Q2.class
+450Q/Array/Q2.java
+450Q/Array/Q3.class
+450Q/Array/Q3.java
+450Q/Array/Q4.class
+450Q/Array/Q4.java
+450Q/Array/Q5.class
+450Q/Array/Q5.java
+450Q/Array/Q6.class
+450Q/Array/Q6.java
+450Q/Array/Q7.class
+450Q/Array/Q7.java
+450Q/Array/Q8.class
+450Q/Array/Q8.java
+450Q/Array/Q9.class
+450Q/Array/Q9.java
+450Q/Array/intervals.class
+450Q/Array/rough.class
+450Q/Array/rough.java
+450Q/Array/tempCodeRunnerFile.java
+450Q/String/Q1.class
+450Q/String/Q1.java
+450Q/String/Q2.class
+450Q/String/Q2.java
+450Q/String/Q3.class
+450Q/String/Q3.java
+450Q/String/Q5.class
+450Q/String/Q5.java
+450Q/String/Q6.class
+450Q/String/Q6.java
+450Q/String/Q7.class
+450Q/String/Q7.java
+450Q/String/tempCodeRunnerFile.java
+AndroidDevelopment/chapter2/.gitignore
+AndroidDevelopment/chapter2/.idea/.gitignore
+AndroidDevelopment/chapter2/.idea/compiler.xml
+AndroidDevelopment/chapter2/.idea/gradle.xml
+AndroidDevelopment/chapter2/.idea/misc.xml
+AndroidDevelopment/chapter2/.idea/vcs.xml
+AndroidDevelopment/chapter2/app/.gitignore
+AndroidDevelopment/chapter2/app/build.gradle
+AndroidDevelopment/chapter2/app/proguard-rules.pro
+AndroidDevelopment/chapter2/app/src/androidTest/java/com/example/chapter2/ExampleInstrumentedTest.java
+AndroidDevelopment/chapter2/app/src/main/AndroidManifest.xml
+AndroidDevelopment/chapter2/app/src/main/java/com/example/chapter2/MainActivity.java
+AndroidDevelopment/chapter2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+AndroidDevelopment/chapter2/app/src/main/res/drawable/ic_launcher_background.xml
+AndroidDevelopment/chapter2/app/src/main/res/layout/activity_main.xml
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+AndroidDevelopment/chapter2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+AndroidDevelopment/chapter2/app/src/main/res/values-night/themes.xml
+AndroidDevelopment/chapter2/app/src/main/res/values/colors.xml
+AndroidDevelopment/chapter2/app/src/main/res/values/strings.xml
+AndroidDevelopment/chapter2/app/src/main/res/values/themes.xml
+AndroidDevelopment/chapter2/app/src/test/java/com/example/chapter2/ExampleUnitTest.java
+AndroidDevelopment/chapter2/build.gradle
+AndroidDevelopment/chapter2/gradle.properties
+AndroidDevelopment/chapter2/gradle/wrapper/gradle-wrapper.jar
+AndroidDevelopment/chapter2/gradle/wrapper/gradle-wrapper.properties
+AndroidDevelopment/chapter2/gradlew
+AndroidDevelopment/chapter2/gradlew.bat
+AndroidDevelopment/chapter2/settings.gradle
+CSS/chapter2/index.html
+CSS/chapter2/rtx.jpg
+CSS/chapter2/style.css
+CSS/chapter3/himanshu.exe
+CSS/chapter3/index.html
+CSS/chapter3/rotatePattern.txt
+CSS/chapter3/script.js
+CSS/chapter3/style.css
+CSS/chapter4/index.html
+CSS/chapter4/script.js
+CSS/chapter4/style.css
+CSS/chapter5/index.html
+Go/rough.go
+HTML+CSS/CSS/basics/h.js
+HTML+CSS/CSS/basics/index.html
+HTML+CSS/CSS/basics/sheet.css
+REACT-NATIVE/SESSION1/rn-first-app
+REACT-NATIVE/SESSION1/rough.js
+REACT-NATIVE/SESSION10/foodorderapp
+REACT-NATIVE/SESSION4/guessthenumber
+REACT-NATIVE/SESSION6/mealapp
+REACT-NATIVE/SESSION8/shopapp
+REACT/max/SESSION11/foodorder/.gitignore
+REACT/max/SESSION11/foodorder/README.md
+REACT/max/SESSION11/foodorder/package-lock.json
+REACT/max/SESSION11/foodorder/package.json
+REACT/max/SESSION11/foodorder/public/favicon.ico
+REACT/max/SESSION11/foodorder/public/index.html
+REACT/max/SESSION11/foodorder/public/logo192.png
+REACT/max/SESSION11/foodorder/public/logo512.png
+REACT/max/SESSION11/foodorder/public/manifest.json
+REACT/max/SESSION11/foodorder/public/robots.txt
+REACT/max/SESSION11/foodorder/src/App.css
+REACT/max/SESSION11/foodorder/src/App.js
+REACT/max/SESSION11/foodorder/src/App.test.js
+REACT/max/SESSION11/foodorder/src/background.jpg
+REACT/max/SESSION11/foodorder/src/content/Main.css
+REACT/max/SESSION11/foodorder/src/content/Main.js
+REACT/max/SESSION11/foodorder/src/dom.css
+REACT/max/SESSION11/foodorder/src/fooditems/FoodItem.css
+REACT/max/SESSION11/foodorder/src/fooditems/FoodItem.js
+REACT/max/SESSION11/foodorder/src/fooditems/FoodItemCard.css
+REACT/max/SESSION11/foodorder/src/fooditems/FoodItemCard.js
+REACT/max/SESSION11/foodorder/src/index.css
+REACT/max/SESSION11/foodorder/src/index.js
+REACT/max/SESSION11/foodorder/src/logo.svg
+REACT/max/SESSION11/foodorder/src/message/Greeting.css
+REACT/max/SESSION11/foodorder/src/message/Greeting.js
+REACT/max/SESSION11/foodorder/src/navbar/Header.css
+REACT/max/SESSION11/foodorder/src/navbar/Header.js
+REACT/max/SESSION11/foodorder/src/navbar/cart/Cart.css
+REACT/max/SESSION11/foodorder/src/navbar/cart/Cart.js
+REACT/max/SESSION11/foodorder/src/navbar/cart/CartContext.js
+REACT/max/SESSION11/foodorder/src/navbar/cart/CartStatusItemCard.css
+REACT/max/SESSION11/foodorder/src/navbar/cart/CartStatusItemCard.js
+REACT/max/SESSION11/foodorder/src/reportWebVitals.js
+REACT/max/SESSION11/foodorder/src/setupTests.js
+REACT/max/SESSION16/userform/.gitignore
+REACT/max/SESSION16/userform/README.md
+REACT/max/SESSION16/userform/package-lock.json
+REACT/max/SESSION16/userform/package.json
+REACT/max/SESSION16/userform/public/favicon.ico
+REACT/max/SESSION16/userform/public/index.html
+REACT/max/SESSION16/userform/public/logo192.png
+REACT/max/SESSION16/userform/public/logo512.png
+REACT/max/SESSION16/userform/public/manifest.json
+REACT/max/SESSION16/userform/public/robots.txt
+REACT/max/SESSION16/userform/src/App.css
+REACT/max/SESSION16/userform/src/App.js
+REACT/max/SESSION16/userform/src/App.test.js
+REACT/max/SESSION16/userform/src/NavBar/Login/Login.css
+REACT/max/SESSION16/userform/src/NavBar/Login/Login.js
+REACT/max/SESSION16/userform/src/NavBar/Navbar.css
+REACT/max/SESSION16/userform/src/NavBar/Navbar.js
+REACT/max/SESSION16/userform/src/NavBar/Signup/Signup.css
+REACT/max/SESSION16/userform/src/NavBar/Signup/Signup.js
+REACT/max/SESSION16/userform/src/NavBar/UserChoice/UserChoice.css
+REACT/max/SESSION16/userform/src/NavBar/UserChoice/UserChoice.js
+REACT/max/SESSION16/userform/src/content/Content.css
+REACT/max/SESSION16/userform/src/content/Content.js
+REACT/max/SESSION16/userform/src/contextData/Context.js
+REACT/max/SESSION16/userform/src/index.css
+REACT/max/SESSION16/userform/src/index.js
+REACT/max/SESSION16/userform/src/logo.svg
+REACT/max/SESSION16/userform/src/reportWebVitals.js
+REACT/max/SESSION16/userform/src/setupTests.js
+REACT/max/SESSION18/reduxoverview/.gitignore
+REACT/max/SESSION18/reduxoverview/README.md
+REACT/max/SESSION18/reduxoverview/package-lock.json
+REACT/max/SESSION18/reduxoverview/package.json
+REACT/max/SESSION18/reduxoverview/public/favicon.ico
+REACT/max/SESSION18/reduxoverview/public/index.html
+REACT/max/SESSION18/reduxoverview/public/logo192.png
+REACT/max/SESSION18/reduxoverview/public/logo512.png
+REACT/max/SESSION18/reduxoverview/public/manifest.json
+REACT/max/SESSION18/reduxoverview/public/robots.txt
+REACT/max/SESSION18/reduxoverview/src/App.css
+REACT/max/SESSION18/reduxoverview/src/App.js
+REACT/max/SESSION18/reduxoverview/src/App.test.js
+REACT/max/SESSION18/reduxoverview/src/index.css
+REACT/max/SESSION18/reduxoverview/src/index.js
+REACT/max/SESSION18/reduxoverview/src/logo.svg
+REACT/max/SESSION18/reduxoverview/src/reportWebVitals.js
+REACT/max/SESSION18/reduxoverview/src/setupTests.js
+REACT/max/SESSION18/reduxoverview/src/store/index.js
+REACT/max/SESSION18_2/reduxoverview/.gitignore
+REACT/max/SESSION18_2/reduxoverview/README.md
+REACT/max/SESSION18_2/reduxoverview/package-lock.json
+REACT/max/SESSION18_2/reduxoverview/package.json
+REACT/max/SESSION18_2/reduxoverview/public/favicon.ico
+REACT/max/SESSION18_2/reduxoverview/public/index.html
+REACT/max/SESSION18_2/reduxoverview/public/logo192.png
+REACT/max/SESSION18_2/reduxoverview/public/logo512.png
+REACT/max/SESSION18_2/reduxoverview/public/manifest.json
+REACT/max/SESSION18_2/reduxoverview/public/robots.txt
+REACT/max/SESSION18_2/reduxoverview/src/App.css
+REACT/max/SESSION18_2/reduxoverview/src/App.js
+REACT/max/SESSION18_2/reduxoverview/src/App.test.js
+REACT/max/SESSION18_2/reduxoverview/src/index.css
+REACT/max/SESSION18_2/reduxoverview/src/index.js
+REACT/max/SESSION18_2/reduxoverview/src/logo.svg
+REACT/max/SESSION18_2/reduxoverview/src/reportWebVitals.js
+REACT/max/SESSION18_2/reduxoverview/src/setupTests.js
+REACT/max/SESSION18_2/reduxoverview/src/store/index.js
+REACT/max/SESSION19/advanceredux/.gitignore
+REACT/max/SESSION19/advanceredux/README.md
+REACT/max/SESSION19/advanceredux/package-lock.json
+REACT/max/SESSION19/advanceredux/package.json
+REACT/max/SESSION19/advanceredux/public/favicon.ico
+REACT/max/SESSION19/advanceredux/public/index.html
+REACT/max/SESSION19/advanceredux/public/logo192.png
+REACT/max/SESSION19/advanceredux/public/logo512.png
+REACT/max/SESSION19/advanceredux/public/manifest.json
+REACT/max/SESSION19/advanceredux/public/robots.txt
+REACT/max/SESSION19/advanceredux/src/App.css
+REACT/max/SESSION19/advanceredux/src/App.js
+REACT/max/SESSION19/advanceredux/src/App.test.js
+REACT/max/SESSION19/advanceredux/src/body/Main.css
+REACT/max/SESSION19/advanceredux/src/body/Main.js
+REACT/max/SESSION19/advanceredux/src/index.css
+REACT/max/SESSION19/advanceredux/src/index.js
+REACT/max/SESSION19/advanceredux/src/logo.svg
+REACT/max/SESSION19/advanceredux/src/navbar/Navbar.css
+REACT/max/SESSION19/advanceredux/src/navbar/Navbar.js
+REACT/max/SESSION19/advanceredux/src/navbar/cart/ItemCardIn.css
+REACT/max/SESSION19/advanceredux/src/navbar/cart/ItemCardIn.js
+REACT/max/SESSION19/advanceredux/src/navbar/cart/ItemCardOut.css
+REACT/max/SESSION19/advanceredux/src/navbar/cart/ItemCardOut.js
+REACT/max/SESSION19/advanceredux/src/reportWebVitals.js
+REACT/max/SESSION19/advanceredux/src/setupTests.js
+REACT/max/SESSION19/advanceredux/src/store/CartSlice.js
+REACT/max/SESSION19/advanceredux/src/store/Index.js
+REACT/max/SESSION2/14_importExport.js
+REACT/max/SESSION2/14_using.js
+REACT/max/SESSION2/17_spreadAndRestOperator.js
+REACT/max/SESSION2/18_destructuring.js
+REACT/max/SESSION2/19_referenceAndPrimitive.js
+REACT/max/SESSION2/20_arrayFunction.js
+REACT/max/SESSION20/quotesapp/.gitignore
+REACT/max/SESSION20/quotesapp/README.md
+REACT/max/SESSION20/quotesapp/package-lock.json
+REACT/max/SESSION20/quotesapp/package.json
+REACT/max/SESSION20/quotesapp/public/favicon.ico
+REACT/max/SESSION20/quotesapp/public/index.html
+REACT/max/SESSION20/quotesapp/public/logo192.png
+REACT/max/SESSION20/quotesapp/public/logo512.png
+REACT/max/SESSION20/quotesapp/public/manifest.json
+REACT/max/SESSION20/quotesapp/public/robots.txt
+REACT/max/SESSION20/quotesapp/src/App.css
+REACT/max/SESSION20/quotesapp/src/App.js
+REACT/max/SESSION20/quotesapp/src/App.test.js
+REACT/max/SESSION20/quotesapp/src/Component/AddQuotes.css
+REACT/max/SESSION20/quotesapp/src/Component/AddQuotes.js
+REACT/max/SESSION20/quotesapp/src/Component/AllQuotes.css
+REACT/max/SESSION20/quotesapp/src/Component/AllQuotes.js
+REACT/max/SESSION20/quotesapp/src/Component/Main.css
+REACT/max/SESSION20/quotesapp/src/Component/Main.js
+REACT/max/SESSION20/quotesapp/src/Component/QuoteCard.css
+REACT/max/SESSION20/quotesapp/src/Component/QuoteCard.js
+REACT/max/SESSION20/quotesapp/src/Header/Header.css
+REACT/max/SESSION20/quotesapp/src/Header/Header.js
+REACT/max/SESSION20/quotesapp/src/index.css
+REACT/max/SESSION20/quotesapp/src/index.js
+REACT/max/SESSION20/quotesapp/src/logo.svg
+REACT/max/SESSION20/quotesapp/src/reportWebVitals.js
+REACT/max/SESSION20/quotesapp/src/setupTests.js
+REACT/max/SESSION20/routingoverview/.gitignore
+REACT/max/SESSION20/routingoverview/README.md
+REACT/max/SESSION20/routingoverview/package-lock.json
+REACT/max/SESSION20/routingoverview/package.json
+REACT/max/SESSION20/routingoverview/public/favicon.ico
+REACT/max/SESSION20/routingoverview/public/index.html
+REACT/max/SESSION20/routingoverview/public/logo192.png
+REACT/max/SESSION20/routingoverview/public/logo512.png
+REACT/max/SESSION20/routingoverview/public/manifest.json
+REACT/max/SESSION20/routingoverview/public/robots.txt
+REACT/max/SESSION20/routingoverview/src/App.css
+REACT/max/SESSION20/routingoverview/src/App.js
+REACT/max/SESSION20/routingoverview/src/App.test.js
+REACT/max/SESSION20/routingoverview/src/components/Product.css
+REACT/max/SESSION20/routingoverview/src/components/Product.js
+REACT/max/SESSION20/routingoverview/src/components/ProductDetail.css
+REACT/max/SESSION20/routingoverview/src/components/ProductDetail.js
+REACT/max/SESSION20/routingoverview/src/components/Welcome.css
+REACT/max/SESSION20/routingoverview/src/components/Welcome.js
+REACT/max/SESSION20/routingoverview/src/index.css
+REACT/max/SESSION20/routingoverview/src/index.js
+REACT/max/SESSION20/routingoverview/src/logo.svg
+REACT/max/SESSION20/routingoverview/src/reportWebVitals.js
+REACT/max/SESSION20/routingoverview/src/setupTests.js
+REACT/max/SESSION24/animation/.gitignore
+REACT/max/SESSION24/animation/README.md
+REACT/max/SESSION24/animation/package-lock.json
+REACT/max/SESSION24/animation/package.json
+REACT/max/SESSION24/animation/public/favicon.ico
+REACT/max/SESSION24/animation/public/index.html
+REACT/max/SESSION24/animation/public/logo192.png
+REACT/max/SESSION24/animation/public/logo512.png
+REACT/max/SESSION24/animation/public/manifest.json
+REACT/max/SESSION24/animation/public/robots.txt
+REACT/max/SESSION24/animation/src/App.css
+REACT/max/SESSION24/animation/src/App.js
+REACT/max/SESSION24/animation/src/App.test.js
+REACT/max/SESSION24/animation/src/index.css
+REACT/max/SESSION24/animation/src/index.js
+REACT/max/SESSION24/animation/src/logo.svg
+REACT/max/SESSION24/animation/src/reportWebVitals.js
+REACT/max/SESSION24/animation/src/setupTests.js
+REACT/max/SESSION27/basics.ts
+REACT/max/SESSION27/demo.js
+REACT/max/SESSION27/demo.ts
+REACT/max/SESSION27/package.json
+REACT/max/SESSION27/react-ts/.gitignore
+REACT/max/SESSION27/react-ts/README.md
+REACT/max/SESSION27/react-ts/package-lock.json
+REACT/max/SESSION27/react-ts/package.json
+REACT/max/SESSION27/react-ts/public/favicon.ico
+REACT/max/SESSION27/react-ts/public/index.html
+REACT/max/SESSION27/react-ts/public/logo192.png
+REACT/max/SESSION27/react-ts/public/logo512.png
+REACT/max/SESSION27/react-ts/public/manifest.json
+REACT/max/SESSION27/react-ts/public/robots.txt
+REACT/max/SESSION27/react-ts/src/App.css
+REACT/max/SESSION27/react-ts/src/App.test.tsx
+REACT/max/SESSION27/react-ts/src/App.tsx
+REACT/max/SESSION27/react-ts/src/index.css
+REACT/max/SESSION27/react-ts/src/index.tsx
+REACT/max/SESSION27/react-ts/src/logo.svg
+REACT/max/SESSION27/react-ts/src/react-app-env.d.ts
+REACT/max/SESSION27/react-ts/src/reportWebVitals.ts
+REACT/max/SESSION27/react-ts/src/setupTests.ts
+REACT/max/SESSION27/react-ts/tsconfig.json
+REACT/max/SESSION4/demo/.gitignore
+REACT/max/SESSION4/demo/README.md
+REACT/max/SESSION4/demo/package-lock.json
+REACT/max/SESSION4/demo/package.json
+REACT/max/SESSION4/demo/public/favicon.ico
+REACT/max/SESSION4/demo/public/index.html
+REACT/max/SESSION4/demo/public/logo192.png
+REACT/max/SESSION4/demo/public/logo512.png
+REACT/max/SESSION4/demo/public/manifest.json
+REACT/max/SESSION4/demo/public/robots.txt
+REACT/max/SESSION4/demo/src/App.css
+REACT/max/SESSION4/demo/src/App.js
+REACT/max/SESSION4/demo/src/App.test.js
+REACT/max/SESSION4/demo/src/components/ExpenseItem.css
+REACT/max/SESSION4/demo/src/components/ExpenseItem.js
+REACT/max/SESSION4/demo/src/components/ProductSeller.css
+REACT/max/SESSION4/demo/src/components/ProductSeller.js
+REACT/max/SESSION4/demo/src/components/UserInputItem.css
+REACT/max/SESSION4/demo/src/components/UserInputItem.js
+REACT/max/SESSION4/demo/src/index.css
+REACT/max/SESSION4/demo/src/index.js
+REACT/max/SESSION4/demo/src/logo.svg
+REACT/max/SESSION4/demo/src/reportWebVitals.js
+REACT/max/SESSION4/demo/src/setupTests.js
+REACT/max/SESSION4/rough.js
+REACT/max/SESSION8/userdetails/.gitignore
+REACT/max/SESSION8/userdetails/README.md
+REACT/max/SESSION8/userdetails/package-lock.json
+REACT/max/SESSION8/userdetails/package.json
+REACT/max/SESSION8/userdetails/public/favicon.ico
+REACT/max/SESSION8/userdetails/public/index.html
+REACT/max/SESSION8/userdetails/public/logo192.png
+REACT/max/SESSION8/userdetails/public/logo512.png
+REACT/max/SESSION8/userdetails/public/manifest.json
+REACT/max/SESSION8/userdetails/public/robots.txt
+REACT/max/SESSION8/userdetails/src/App.css
+REACT/max/SESSION8/userdetails/src/App.js
+REACT/max/SESSION8/userdetails/src/App.test.js
+REACT/max/SESSION8/userdetails/src/Dom.css
+REACT/max/SESSION8/userdetails/src/components/displayscreen/DisplayPage.css
+REACT/max/SESSION8/userdetails/src/components/displayscreen/DisplayPage.js
+REACT/max/SESSION8/userdetails/src/components/dom/Content.css
+REACT/max/SESSION8/userdetails/src/components/dom/Content.js
+REACT/max/SESSION8/userdetails/src/components/userdata/UserItem.css
+REACT/max/SESSION8/userdetails/src/components/userdata/UserItem.js
+REACT/max/SESSION8/userdetails/src/components/userscreen/UserPage.css
+REACT/max/SESSION8/userdetails/src/components/userscreen/UserPage.js
+REACT/max/SESSION8/userdetails/src/index.css
+REACT/max/SESSION8/userdetails/src/index.js
+REACT/max/SESSION8/userdetails/src/logo.svg
+REACT/max/SESSION8/userdetails/src/reportWebVitals.js
+REACT/max/SESSION8/userdetails/src/setupTests.js
+REACT/max/SESSION9/demo/.gitignore
+REACT/max/SESSION9/demo/README.md
+REACT/max/SESSION9/demo/package-lock.json
+REACT/max/SESSION9/demo/package.json
+REACT/max/SESSION9/demo/public/favicon.ico
+REACT/max/SESSION9/demo/public/index.html
+REACT/max/SESSION9/demo/public/logo192.png
+REACT/max/SESSION9/demo/public/logo512.png
+REACT/max/SESSION9/demo/public/manifest.json
+REACT/max/SESSION9/demo/public/robots.txt
+REACT/max/SESSION9/demo/src/App.css
+REACT/max/SESSION9/demo/src/App.js
+REACT/max/SESSION9/demo/src/App.test.js
+REACT/max/SESSION9/demo/src/index.css
+REACT/max/SESSION9/demo/src/index.js
+REACT/max/SESSION9/demo/src/logo.svg
+REACT/max/SESSION9/demo/src/reportWebVitals.js
+REACT/max/SESSION9/demo/src/setupTests.js
+README.md
+WEB DEVELOPMENT/QuizApp/quizapp/db.sqlite3
+WEB DEVELOPMENT/QuizApp/quizapp/manage.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__init__.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/admin.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/apps.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/models.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/serializers.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/__pycache__/views.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/admin.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/apps.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/migrations/0001_initial.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/migrations/__init__.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/migrations/__pycache__/0001_initial.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/migrations/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/models.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/serializers.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/arrow.png
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/data.txt
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/pie.png
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/script1.js
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/script2.js
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/script3.js
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/script4.js
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/style.css
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/style2.css
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/style3.css
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/style4.css
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/temp.class
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/static/word.png
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/templates/addNew.html
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/templates/base.html
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/templates/index.html
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/templates/questionPage.html
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/templates/scoreCard.html
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/tests.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/urls.py
+WEB DEVELOPMENT/QuizApp/quizapp/mcq/views.py
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/__init__.py
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/__pycache__/settings.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/__pycache__/wsgi.cpython-39.pyc
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/asgi.py
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/settings.py
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/urls.py
+WEB DEVELOPMENT/QuizApp/quizapp/quizapp/wsgi.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__init__.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/admin.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/apps.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/models.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/serializers.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/__pycache__/views.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/admin.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/apps.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/0001_initial.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/0002_userdata_profile.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/0003_remove_userdata_profile.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/__init__.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/__pycache__/0001_initial.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/__pycache__/0002_userdata_profile.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/__pycache__/0003_remove_userdata_profile.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/migrations/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/api/models.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/serializers.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/tests.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/urls.py
+WEB DEVELOPMENT/authentication/backend/backendapi/api/views.py
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/__init__.py
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/__pycache__/settings.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/__pycache__/wsgi.cpython-39.pyc
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/asgi.py
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/settings.py
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/urls.py
+WEB DEVELOPMENT/authentication/backend/backendapi/backendapi/wsgi.py
+WEB DEVELOPMENT/authentication/backend/backendapi/db.sqlite3
+WEB DEVELOPMENT/authentication/backend/backendapi/manage.py
+WEB DEVELOPMENT/authentication/frontend/registration/.gitignore
+WEB DEVELOPMENT/authentication/frontend/registration/README.md
+WEB DEVELOPMENT/authentication/frontend/registration/package-lock.json
+WEB DEVELOPMENT/authentication/frontend/registration/package.json
+WEB DEVELOPMENT/authentication/frontend/registration/public/favicon.ico
+WEB DEVELOPMENT/authentication/frontend/registration/public/index.html
+WEB DEVELOPMENT/authentication/frontend/registration/public/logo192.png
+WEB DEVELOPMENT/authentication/frontend/registration/public/logo512.png
+WEB DEVELOPMENT/authentication/frontend/registration/public/manifest.json
+WEB DEVELOPMENT/authentication/frontend/registration/public/robots.txt
+WEB DEVELOPMENT/authentication/frontend/registration/src/App.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/App.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/App.test.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/header/navbar/Navbar.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/header/navbar/Navbar.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/index.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/index.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/logo.svg
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/Body/MainBody.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Create.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Create.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Dashboard.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Dashboard.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Login.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Login.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Members.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Members.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Modify.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Modify.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Signup.css
+WEB DEVELOPMENT/authentication/frontend/registration/src/main/pages/Signup.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/reportWebVitals.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/setupTests.js
+WEB DEVELOPMENT/authentication/frontend/registration/src/store/DataBranch.js
+WEB DEVELOPMENT/bootcamp/basics.html
+WEB DEVELOPMENT/bootcamp/index.html
+WEB DEVELOPMENT/bootcamp/input.html
+WEB DEVELOPMENT/index.html
+WEB DEVELOPMENT/poll/back/api/__init__.py
+WEB DEVELOPMENT/poll/back/api/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/admin.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/apps.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/models.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/serializers.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/__pycache__/views.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/admin.py
+WEB DEVELOPMENT/poll/back/api/apps.py
+WEB DEVELOPMENT/poll/back/api/migrations/0001_initial.py
+WEB DEVELOPMENT/poll/back/api/migrations/0002_poll_title_poll_title1_poll_title2_poll_title3_and_more.py
+WEB DEVELOPMENT/poll/back/api/migrations/0003_voteoption_remove_poll_option1_remove_poll_option2_and_more.py
+WEB DEVELOPMENT/poll/back/api/migrations/0004_remove_poll_option_poll_option.py
+WEB DEVELOPMENT/poll/back/api/migrations/0005_voteoption_voteduser.py
+WEB DEVELOPMENT/poll/back/api/migrations/0006_remove_poll_option_poll_users.py
+WEB DEVELOPMENT/poll/back/api/migrations/0007_remove_poll_users_poll_option.py
+WEB DEVELOPMENT/poll/back/api/migrations/0008_rename_vote_voteoption_votevalue.py
+WEB DEVELOPMENT/poll/back/api/migrations/0009_voteoption_votequestion.py
+WEB DEVELOPMENT/poll/back/api/migrations/0010_rename_votequestion_voteoption_votestatement_and_more.py
+WEB DEVELOPMENT/poll/back/api/migrations/0011_remove_poll_question_poll_pollquestion.py
+WEB DEVELOPMENT/poll/back/api/migrations/__init__.py
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0001_initial.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0002_poll_title_poll_title1_poll_title2_poll_title3_and_more.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0003_voteoption_remove_poll_option1_remove_poll_option2_and_more.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0004_remove_poll_option_poll_option.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0005_voteoption_voteduser.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0006_remove_poll_option_poll_users.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0007_remove_poll_users_poll_option.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0008_rename_vote_voteoption_votevalue.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0009_voteoption_votequestion.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0010_rename_votequestion_voteoption_votestatement_and_more.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/0011_remove_poll_question_poll_pollquestion.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/migrations/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/api/models.py
+WEB DEVELOPMENT/poll/back/api/serializers.py
+WEB DEVELOPMENT/poll/back/api/tests.py
+WEB DEVELOPMENT/poll/back/api/urls.py
+WEB DEVELOPMENT/poll/back/api/views.py
+WEB DEVELOPMENT/poll/back/back/__init__.py
+WEB DEVELOPMENT/poll/back/back/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/back/__pycache__/settings.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/back/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/back/__pycache__/wsgi.cpython-39.pyc
+WEB DEVELOPMENT/poll/back/back/asgi.py
+WEB DEVELOPMENT/poll/back/back/settings.py
+WEB DEVELOPMENT/poll/back/back/urls.py
+WEB DEVELOPMENT/poll/back/back/wsgi.py
+WEB DEVELOPMENT/poll/back/db.sqlite3
+WEB DEVELOPMENT/poll/back/manage.py
+WEB DEVELOPMENT/poll/front/pollapp/.gitignore
+WEB DEVELOPMENT/poll/front/pollapp/README.md
+WEB DEVELOPMENT/poll/front/pollapp/package-lock.json
+WEB DEVELOPMENT/poll/front/pollapp/package.json
+WEB DEVELOPMENT/poll/front/pollapp/public/favicon.ico
+WEB DEVELOPMENT/poll/front/pollapp/public/index.html
+WEB DEVELOPMENT/poll/front/pollapp/public/logo192.png
+WEB DEVELOPMENT/poll/front/pollapp/public/logo512.png
+WEB DEVELOPMENT/poll/front/pollapp/public/manifest.json
+WEB DEVELOPMENT/poll/front/pollapp/public/robots.txt
+WEB DEVELOPMENT/poll/front/pollapp/src/App.css
+WEB DEVELOPMENT/poll/front/pollapp/src/App.js
+WEB DEVELOPMENT/poll/front/pollapp/src/App.test.js
+WEB DEVELOPMENT/poll/front/pollapp/src/components/CreateOptionParent.css
+WEB DEVELOPMENT/poll/front/pollapp/src/components/CreateOptionParent.js
+WEB DEVELOPMENT/poll/front/pollapp/src/components/PollCard.css
+WEB DEVELOPMENT/poll/front/pollapp/src/components/PollCard.js
+WEB DEVELOPMENT/poll/front/pollapp/src/components/PollOptionSection.css
+WEB DEVELOPMENT/poll/front/pollapp/src/components/PollOptionSection.js
+WEB DEVELOPMENT/poll/front/pollapp/src/fetchAPiData/FetchLoginPost.js
+WEB DEVELOPMENT/poll/front/pollapp/src/fetchAPiData/FetchSignupPost.js
+WEB DEVELOPMENT/poll/front/pollapp/src/fetchAPiData/fetchData.js
+WEB DEVELOPMENT/poll/front/pollapp/src/header/navbar/Navbar.css
+WEB DEVELOPMENT/poll/front/pollapp/src/header/navbar/Navbar.js
+WEB DEVELOPMENT/poll/front/pollapp/src/index.css
+WEB DEVELOPMENT/poll/front/pollapp/src/index.js
+WEB DEVELOPMENT/poll/front/pollapp/src/logo.svg
+WEB DEVELOPMENT/poll/front/pollapp/src/main/Body/MainBody.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Create.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Create.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Dashboard.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Dashboard.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Login.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Login.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Members.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Members.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Modify.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Modify.js
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Signup.css
+WEB DEVELOPMENT/poll/front/pollapp/src/main/pages/Signup.js
+WEB DEVELOPMENT/poll/front/pollapp/src/reportWebVitals.js
+WEB DEVELOPMENT/poll/front/pollapp/src/setupTests.js
+WEB DEVELOPMENT/poll/front/pollapp/src/store/DataBranch.js
+WEB DEVELOPMENT/poll/front/pollapp/src/store/authSlice.js
+WEB DEVELOPMENT/poll/front/pollapp/src/store/pollCardSlice.js
+WEB DEVELOPMENT/static file concept/backend/Screenshot_2.png
+WEB DEVELOPMENT/static file concept/backend/api/__init__.py
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/admin.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/apps.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/models.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/__pycache__/views.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/admin.py
+WEB DEVELOPMENT/static file concept/backend/api/apps.py
+WEB DEVELOPMENT/static file concept/backend/api/migrations/0001_initial.py
+WEB DEVELOPMENT/static file concept/backend/api/migrations/0002_photo_docfile_alter_photo_datafile.py
+WEB DEVELOPMENT/static file concept/backend/api/migrations/0003_remove_photo_docfile_alter_photo_datafile.py
+WEB DEVELOPMENT/static file concept/backend/api/migrations/__init__.py
+WEB DEVELOPMENT/static file concept/backend/api/migrations/__pycache__/0001_initial.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/migrations/__pycache__/0002_photo_docfile_alter_photo_datafile.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/migrations/__pycache__/0003_remove_photo_docfile_alter_photo_datafile.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/migrations/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/api/models.py
+WEB DEVELOPMENT/static file concept/backend/api/tests.py
+WEB DEVELOPMENT/static file concept/backend/api/urls.py
+WEB DEVELOPMENT/static file concept/backend/api/views.py
+WEB DEVELOPMENT/static file concept/backend/backend/__init__.py
+WEB DEVELOPMENT/static file concept/backend/backend/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/backend/__pycache__/settings.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/backend/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/backend/__pycache__/wsgi.cpython-39.pyc
+WEB DEVELOPMENT/static file concept/backend/backend/asgi.py
+WEB DEVELOPMENT/static file concept/backend/backend/settings.py
+WEB DEVELOPMENT/static file concept/backend/backend/urls.py
+WEB DEVELOPMENT/static file concept/backend/backend/wsgi.py
+WEB DEVELOPMENT/static file concept/backend/db.sqlite3
+WEB DEVELOPMENT/static file concept/backend/manage.py
+WEB DEVELOPMENT/static file concept/backend/static/images/Chrysanthemum.jpg
+WEB DEVELOPMENT/static file concept/backend/static/images/Desert.jpg
+WEB DEVELOPMENT/static file concept/backend/static/images/Penguins.jpg
+WEB DEVELOPMENT/static file concept/frontend/.gitignore
+WEB DEVELOPMENT/static file concept/frontend/README.md
+WEB DEVELOPMENT/static file concept/frontend/package-lock.json
+WEB DEVELOPMENT/static file concept/frontend/package.json
+WEB DEVELOPMENT/static file concept/frontend/public/favicon.ico
+WEB DEVELOPMENT/static file concept/frontend/public/index.html
+WEB DEVELOPMENT/static file concept/frontend/public/logo192.png
+WEB DEVELOPMENT/static file concept/frontend/public/logo512.png
+WEB DEVELOPMENT/static file concept/frontend/public/manifest.json
+WEB DEVELOPMENT/static file concept/frontend/public/robots.txt
+WEB DEVELOPMENT/static file concept/frontend/src/App.css
+WEB DEVELOPMENT/static file concept/frontend/src/App.js
+WEB DEVELOPMENT/static file concept/frontend/src/App.test.js
+WEB DEVELOPMENT/static file concept/frontend/src/header/Header.js
+WEB DEVELOPMENT/static file concept/frontend/src/index.css
+WEB DEVELOPMENT/static file concept/frontend/src/index.js
+WEB DEVELOPMENT/static file concept/frontend/src/logo.svg
+WEB DEVELOPMENT/static file concept/frontend/src/reportWebVitals.js
+WEB DEVELOPMENT/static file concept/frontend/src/setupTests.js
+WEB DEVELOPMENT/tic tac toe/index.html
+WEB DEVELOPMENT/tic tac toe/p.class
+WEB DEVELOPMENT/tic tac toe/script.js
+WEB DEVELOPMENT/tic tac toe/style.css
+WEB DEVELOPMENT/userdataProject/userdata/.gitignore
+WEB DEVELOPMENT/userdataProject/userdata/README.md
+WEB DEVELOPMENT/userdataProject/userdata/package-lock.json
+WEB DEVELOPMENT/userdataProject/userdata/package.json
+WEB DEVELOPMENT/userdataProject/userdata/public/favicon.ico
+WEB DEVELOPMENT/userdataProject/userdata/public/index.html
+WEB DEVELOPMENT/userdataProject/userdata/public/logo192.png
+WEB DEVELOPMENT/userdataProject/userdata/public/logo512.png
+WEB DEVELOPMENT/userdataProject/userdata/public/manifest.json
+WEB DEVELOPMENT/userdataProject/userdata/public/robots.txt
+WEB DEVELOPMENT/userdataProject/userdata/src/App.css
+WEB DEVELOPMENT/userdataProject/userdata/src/App.js
+WEB DEVELOPMENT/userdataProject/userdata/src/App.test.js
+WEB DEVELOPMENT/userdataProject/userdata/src/components/Main.css
+WEB DEVELOPMENT/userdataProject/userdata/src/components/Main.js
+WEB DEVELOPMENT/userdataProject/userdata/src/components/Navbar.css
+WEB DEVELOPMENT/userdataProject/userdata/src/components/Navbar.js
+WEB DEVELOPMENT/userdataProject/userdata/src/components/PersonCard.css
+WEB DEVELOPMENT/userdataProject/userdata/src/components/PersonCard.js
+WEB DEVELOPMENT/userdataProject/userdata/src/index.css
+WEB DEVELOPMENT/userdataProject/userdata/src/index.js
+WEB DEVELOPMENT/userdataProject/userdata/src/logo.svg
+WEB DEVELOPMENT/userdataProject/userdata/src/reportWebVitals.js
+WEB DEVELOPMENT/userdataProject/userdata/src/setupTests.js
+WEB DEVELOPMENT/userdataProject/userdatabackend/Procfile
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__init__.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/admin.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/apps.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/models.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/serializers.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/__pycache__/views.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/admin.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/apps.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/migrations/0001_initial.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/migrations/__init__.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/migrations/__pycache__/0001_initial.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/migrations/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/models.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/serializers.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/tests.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/urls.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/api/views.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/db.sqlite3
+WEB DEVELOPMENT/userdataProject/userdatabackend/manage.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/requirements.txt
+WEB DEVELOPMENT/userdataProject/userdatabackend/runtime.txt
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/__init__.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/__pycache__/__init__.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/__pycache__/settings.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/__pycache__/urls.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/__pycache__/wsgi.cpython-39.pyc
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/asgi.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/settings.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/urls.py
+WEB DEVELOPMENT/userdataProject/userdatabackend/userdatabackend/wsgi.py
+bitsInterview/f1/bits.class
+bitsInterview/f1/bits.java
+bitsInterview/f1/bits1.py
+bitsInterview/f1/bits2.py
+bitsInterview/f1/bits3.py
+bitsInterview/f1/bits5.class
+bitsInterview/f1/bits5.java
+bitsInterview/f1/bits5.py
+bitsInterview/f1/bits6.class
+bitsInterview/f1/bits6.java
+bitsInterview/f1/bits6.py
+bitsInterview/f1/bits7.py
+bitsInterview/f1/bitsEasy1.py
+bitsInterview/f1/bitsHard.py
+bitsInterview/f1/bitsValueLab.py
+bitsInterview/f1/c0.py
+bitsInterview/f1/c2.py
+bitsInterview/f1/c3.py
+bitsInterview/f1/hashMap.class
+bitsInterview/f1/hashMap.java
+bitsInterview/f1/ncet.py
+bitsInterview/f1/rough.class
+bitsInterview/f1/rough.cpp
+bitsInterview/f1/rough.java
+bitsInterview/f1/rough.py
+bitsInterview/f1/s.cpp
+bitsInterview/f1/s.exe
+bitsInterview/f2/twoMonth.py
+c++/DSA/.vscode/settings.json
+c++/DSA/abstractDataTypeStructure.cpp
+c++/DSA/abstractDataTypeStructure.exe
+c++/DSA/circularQueue.cpp
+c++/DSA/circularQueue.exe
+c++/DSA/linkedList.cpp
+c++/DSA/linkedList.exe
+c++/DSA/linkedListInsertion.exe
+c++/DSA/parenthisisMatching.cpp
+c++/DSA/parenthisisMatching.exe
+c++/DSA/queue.cpp
+c++/DSA/queue.exe
+c++/DSA/queueUsingLinkedList.cpp
+c++/DSA/queueUsingLinkedList.exe
+c++/DSA/r.js
+c++/DSA/rought.cpp
+c++/DSA/rought.exe
+c++/DSA/stack.cpp
+c++/DSA/stack.exe
+c++/DSA/stackUsingLinkedList.cpp
+c++/DSA/stackUsingLinkedList.exe
+c++/DSA/tempCodeRunnerFile.cpp
+c++/DSA/trash/LinkedListClone.cpp
+c++/DSA/trash/LinkedListClone.exe
+c++/DSA/trash/LinkedListDeletition.cpp
+c++/DSA/trash/LinkedListInsertionAtEnd.cpp
+c++/DSA/trash/LinkedListInsertionAtEnd.exe
+c++/DSA/trash/linkedListInsertionAtTop.cpp
+c++/DSA/trash/linkedListIntro.cpp
+c++/DSA/trash/linkedListIntro.exe
+c++/DSALGO/.vscode/settings.json
+c++/DSALGO/0_rough.cpp
+c++/DSALGO/10_Factorial.cpp
+c++/DSALGO/10_Factorial.exe
+c++/DSALGO/11_FibonaciiSeries.cpp
+c++/DSALGO/11_FibonaciiSeries.exe
+c++/DSALGO/11_StructIntro.cpp
+c++/DSALGO/11_StructIntro.exe
+c++/DSALGO/12_ADT_Usingclass.cpp
+c++/DSALGO/12_ADT_Usingclass.exe
+c++/DSALGO/13_LinkedList.cpp
+c++/DSALGO/13_LinkedList.exe
+c++/DSALGO/14_DoublyLinkedList.cpp
+c++/DSALGO/14_DoublyLinkedList.exe
+c++/DSALGO/15_StackUsingLinkedList.cpp
+c++/DSALGO/16_Tress.cpp
+c++/DSALGO/16_Tress.exe
+c++/DSALGO/17_BST.cpp
+c++/DSALGO/17_BST.exe
+c++/DSALGO/1TailRecursion.exe
+c++/DSALGO/1_TailRecursion.cpp
+c++/DSALGO/2HeadRecursion.exe
+c++/DSALGO/2_HeadRecursion.cpp
+c++/DSALGO/3StaticVariable.exe
+c++/DSALGO/3_StaticVariable.cpp
+c++/DSALGO/4_TreeRecursion.cpp
+c++/DSALGO/4_TreeRecursion.exe
+c++/DSALGO/5_pattern.cpp
+c++/DSALGO/5_pattern.exe
+c++/DSALGO/6_TreeRecursionAdvance.cpp
+c++/DSALGO/6_TreeRecursionAdvance.exe
+c++/DSALGO/7_IndirectRecursion.cpp
+c++/DSALGO/7_IndirectRecursion.exe
+c++/DSALGO/8_NestedRecursion.cpp
+c++/DSALGO/9_SumOfNaturalNumber.cpp
+c++/DSALGO/9_SumOfNaturalNumber.exe
+c++/DSALGO/a.exe
+c++/DSALGO/bittu.java
+c++/DSALGO/bittu.py
+c++/DSALGO/bracket.cpp
+c++/DSALGO/bracket.exe
+c++/DSALGO/fact.py
+c++/DSALGO/khusl.py
+c++/DSALGO/tejas.class
+c++/DSALGO/tejas.java
+c++/DSALGO/tempCodeRunnerFile.cpp
+c++/college/DU_first semester_20_question/.vscode/settings.json
+c++/college/DU_first semester_20_question/DU_1.cpp
+c++/college/DU_first semester_20_question/DU_1.exe
+c++/college/DU_first semester_20_question/DU_10.cpp
+c++/college/DU_first semester_20_question/DU_11.cpp
+c++/college/DU_first semester_20_question/DU_11.exe
+c++/college/DU_first semester_20_question/DU_12.CPP
+c++/college/DU_first semester_20_question/DU_13.cpp
+c++/college/DU_first semester_20_question/DU_13.exe
+c++/college/DU_first semester_20_question/DU_14.cpp
+c++/college/DU_first semester_20_question/DU_14.exe
+c++/college/DU_first semester_20_question/DU_15.cpp
+c++/college/DU_first semester_20_question/DU_15.exe
+c++/college/DU_first semester_20_question/DU_16.CPP
+c++/college/DU_first semester_20_question/DU_16.exe
+c++/college/DU_first semester_20_question/DU_17.cpp
+c++/college/DU_first semester_20_question/DU_17.exe
+c++/college/DU_first semester_20_question/DU_18.cpp
+c++/college/DU_first semester_20_question/DU_19.cpp
+c++/college/DU_first semester_20_question/DU_19.exe
+c++/college/DU_first semester_20_question/DU_2.cpp
+c++/college/DU_first semester_20_question/DU_2.exe
+c++/college/DU_first semester_20_question/DU_20.cpp
+c++/college/DU_first semester_20_question/DU_20.exe
+c++/college/DU_first semester_20_question/DU_3.cpp
+c++/college/DU_first semester_20_question/DU_3.exe
+c++/college/DU_first semester_20_question/DU_4.cpp
+c++/college/DU_first semester_20_question/DU_4.exe
+c++/college/DU_first semester_20_question/DU_5.cpp
+c++/college/DU_first semester_20_question/DU_5.exe
+c++/college/DU_first semester_20_question/DU_6.cpp
+c++/college/DU_first semester_20_question/DU_6.exe
+c++/college/DU_first semester_20_question/DU_7.cpp
+c++/college/DU_first semester_20_question/DU_7.exe
+c++/college/DU_first semester_20_question/DU_8.cpp
+c++/college/DU_first semester_20_question/DU_8.exe
+c++/college/DU_first semester_20_question/DU_9.cpp
+c++/college/DU_first semester_20_question/DU_9.exe
+c++/college/DU_first semester_20_question/a.exe
+c++/college/DU_first semester_20_question/rough.cpp
+c++/college/DU_first semester_20_question/rough.exe
+c++/college/DU_first semester_20_question/tempCodeRunnerFile.cpp
+c++/college/DU_first semester_20_question/ujjwal.c
+c++/college/DU_first semester_20_question/ujjwal.exe
+c++/college/a.exe
+c++/college/apnikaksha/lec1.cpp
+c++/college/apnikaksha/lec2.cpp
+c++/college/apnikaksha/lec2.exe
+c++/college/apnikaksha/lec3.cpp
+c++/college/apnikaksha/lec3.exe
+c++/college/apnikaksha/lec4.cpp
+c++/college/apnikaksha/lec4.exe
+c++/college/apnikaksha/lec5.cpp
+c++/college/apnikaksha/lec5.exe
+c++/college/apnikaksha/lec6.cpp
+c++/college/apnikaksha/lec6.exe
+c++/college/apnikaksha/lec7.cpp
+c++/college/apnikaksha/lec7.exe
+c++/college/apnikaksha/lec8.cpp
+c++/college/apnikaksha/rough1.cpp
+c++/college/apnikaksha/rough1.exe
+c++/college/array.cpp
+c++/college/array.exe
+c++/college/c++/.vscode/settings.json
+c++/college/c++/1.13
+c++/college/c++/1.13.cpp
+c++/college/c++/1.22
+c++/college/c++/1.22.cpp
+c++/college/c++/1.8.cpp
+c++/college/c++/Friend Classes & Member Friend Functions.cpp
+c++/college/c++/a.exe
+c++/college/c++/all_about_pointers.cpp
+c++/college/c++/all_about_pointers.exe
+c++/college/c++/ambiguity.cpp
+c++/college/c++/ambiguity.exe
+c++/college/c++/ankit_hr.cpp
+c++/college/c++/ankit_hr.exe
+c++/college/c++/ankit_random.cpp
+c++/college/c++/ankit_random.exe
+c++/college/c++/array.cpp
+c++/college/c++/array.exe
+c++/college/c++/array_element_remove.cpp
+c++/college/c++/array_element_remove.exe
+c++/college/c++/array_element_remove_pandey.cpp
+c++/college/c++/array_element_remove_pandey.exe
+c++/college/c++/array_element_value_change.cpp
+c++/college/c++/array_element_value_change.exe
+c++/college/c++/array_of_object_1.cpp
+c++/college/c++/array_of_object_1.exe
+c++/college/c++/array_of_objects_dynamic_allocation.cpp
+c++/college/c++/array_of_objects_dynamic_allocation.exe
+c++/college/c++/array_palindrome.cpp
+c++/college/c++/array_palindrome.exe
+c++/college/c++/arrayslice.cpp
+c++/college/c++/arrayslice.exe
+c++/college/c++/arraysum.cpp
+c++/college/c++/bittu.cpp
+c++/college/c++/bittu.exe
+c++/college/c++/booleanalgebra.exe
+c++/college/c++/bubblesorting.cpp
+c++/college/c++/bubblesorting.exe
+c++/college/c++/calculator_inheritance.cpp
+c++/college/c++/checkprime.cpp
+c++/college/c++/checkprime.exe
+c++/college/c++/class_basics.cpp
+c++/college/c++/class_basics.exe
+c++/college/c++/class_public_private.cpp
+c++/college/c++/class_public_private.exe
+c++/college/c++/classconcept2.cpp
+c++/college/c++/classconcept2.exe
+c++/college/c++/complexclass.cpp
+c++/college/c++/complexclass.exe
+c++/college/c++/constructor.exe
+c++/college/c++/cpp.json
+c++/college/c++/cpp_test.cpp
+c++/college/c++/cpu100.cpp
+c++/college/c++/cpu100.exe
+c++/college/c++/csa_chapter_3.cpp
+c++/college/c++/csa_chapter_3.exe
+c++/college/c++/digit_split.cpp
+c++/college/c++/digit_split.exe
+c++/college/c++/english.cpp
+c++/college/c++/exception_handliing_1.cpp
+c++/college/c++/exception_handliing_1.exe
+c++/college/c++/file1.txt
+c++/college/c++/file2.txt
+c++/college/c++/file_handling_1.cpp
+c++/college/c++/file_handling_1.exe
+c++/college/c++/file_handling_2.cpp
+c++/college/c++/file_handling_2.exe
+c++/college/c++/file_handling_3.cpp
+c++/college/c++/file_handling_3.exe
+c++/college/c++/frequencycount.cpp
+c++/college/c++/frequencycount.exe
+c++/college/c++/friend_function_in_cpp.cpp
+c++/college/c++/friend_function_in_cpp.exe
+c++/college/c++/friendfunction_doubt.cpp
+c++/college/c++/h.py
+c++/college/c++/initialization_list.cpp
+c++/college/c++/initialization_list.exe
+c++/college/c++/k.py
+c++/college/c++/khushal.cpp
+c++/college/c++/khushal.exe
+c++/college/c++/khushalGraph.cpp
+c++/college/c++/khushalGraph.exe
+c++/college/c++/khushalPattern.cpp
+c++/college/c++/khushalPattern.exe
+c++/college/c++/khushaldebug.cpp
+c++/college/c++/khushaldebug.exe
+c++/college/c++/lcm.cpp
+c++/college/c++/matrixRotation.cpp
+c++/college/c++/matrixRotation.exe
+c++/college/c++/maximumvalueinarray.cpp
+c++/college/c++/maximumvalueinarray.exe
+c++/college/c++/nested_member_of_function.cpp
+c++/college/c++/noobinheritance.exe
+c++/college/c++/numtowords.cpp
+c++/college/c++/numtowords.exe
+c++/college/c++/old_project.cpp
+c++/college/c++/old_project.exe
+c++/college/c++/palindrome.cpp
+c++/college/c++/palindrome.exe
+c++/college/c++/palindrome_using_array.cpp
+c++/college/c++/palindrome_using_array.exe
+c++/college/c++/pointer_concept.cpp
+c++/college/c++/pointer_concept.exe
+c++/college/c++/pointer_top.cpp
+c++/college/c++/pointer_top.exe
+c++/college/c++/prince_frequncy.cpp
+c++/college/c++/prince_frequncy.exe
+c++/college/c++/punit1.cpp
+c++/college/c++/punit1.exe
+c++/college/c++/punit4.cpp
+c++/college/c++/punit4.exe
+c++/college/c++/reverseAnInteger.cpp
+c++/college/c++/reverseAnInteger.exe
+c++/college/c++/rough.cpp
+c++/college/c++/rough.exe
+c++/college/c++/sample.txt
+c++/college/c++/satyam.cpp
+c++/college/c++/stl.cpp
+c++/college/c++/stl.exe
+c++/college/c++/stl_vector.cpp
+c++/college/c++/stl_vector.exe
+c++/college/c++/strings_methods.cpp
+c++/college/c++/strings_methods.exe
+c++/college/c++/stringslice.cpp
+c++/college/c++/stringslice.exe
+c++/college/c++/tempCodeRunnerFile.cpp
+c++/college/c++/template_01.cpp
+c++/college/c++/tic_tac_toe.cpp
+c++/college/c++/tic_tac_toe.exe
+c++/college/c++/truthtable.cpp
+c++/college/c++/truthtable.exe
+c++/college/c++/ujjwal.c
+c++/college/c++/ujjwal.exe
+c++/college/c++/variable_array.cpp
+c++/college/c++/variable_array.exe
+c++/college/cpp_full_course/1.cpp
+c++/college/cpp_full_course/2.cpp
+c++/college/cpp_full_course/3.cpp
+c++/college/cpp_full_course/rough.cpp
+c++/college/cpp_full_course/tut1.cpp
+c++/college/cpp_full_course/tut2.cpp
+c++/college/cpp_full_course/tut3.1.cpp
+c++/college/cpp_full_course/tut3.2.cpp
+c++/college/cpp_full_course/tut3.exe
+c++/college/file_input_output/.vscode/settings.json
+c++/college/file_input_output/basics.cpp
+c++/college/file_input_output/fileHandlingUsingEof.cpp
+c++/college/file_input_output/fileHandlingUsingEof.exe
+c++/college/file_input_output/readingAndWriting.cpp
+c++/college/file_input_output/readingAndWriting.exe
+c++/college/file_input_output/reading_file_1_practice.cpp
+c++/college/file_input_output/readingfile.cpp
+c++/college/file_input_output/readingfile.exe
+c++/college/file_input_output/sample.txt
+c++/college/file_input_output/sample2.txt
+c++/college/file_input_output/tempCodeRunnerFile.cpp
+c++/college/file_input_output/template1.cpp
+c++/college/file_input_output/template1.exe
+c++/college/file_input_output/template2.cpp
+c++/college/file_input_output/template2.exe
+c++/college/file_input_output/template3.cpp
+c++/college/file_input_output/template3.exe
+c++/college/file_input_output/writing_file_1_practice.cpp
+c++/college/file_input_output/writing_file_1_practice.exe
+c++/college/file_input_output/writingfile.cpp
+c++/college/file_input_output/writingfile.exe
+c++/college/hr.cpp
+c++/college/hr.exe
+c++/college/internal assignment practical/.vscode/settings.json
+c++/college/internal assignment practical/2.cpp
+c++/college/internal assignment practical/2.exe
+c++/college/internal assignment practical/3.cpp
+c++/college/internal assignment practical/3.exe
+c++/college/internal assignment practical/4.cpp
+c++/college/internal assignment practical/5.cpp
+c++/college/internal assignment practical/datafile.txt
+c++/college/internal assignment practical/fileD.txt
+c++/college/internal assignment practical/fileRest.txt
+c++/college/internal assignment practical/fileV.txt
+c++/college/internal assignment practical/rough.cpp
+c++/college/internal assignment practical/rough.exe
+c++/college/internal assignment practical/rough1.cpp
+c++/college/tt.cpp
+c++/college/tt.exe
+c++/expresssion and statement/.vscode/settings.json
+c++/expresssion and statement/PRG6.cpp
+c++/expresssion and statement/PRG7.cpp
+c++/expresssion and statement/PRG7.exe
+c++/expresssion and statement/PRG8.cpp
+c++/expresssion and statement/PRG8.exe
+c++/expresssion and statement/PRG9.cpp
+c++/expresssion and statement/PRG9.exe
+c++/expresssion and statement/a.exe
+c++/expresssion and statement/rough.cpp
+c++/expresssion and statement/rough.exe
+c++/expresssion and statement/rough2.cpp
+c++/expresssion and statement/rough2.exe
+c++/hackerrank/.vscode/settings.json
+c++/hackerrank/variablesizedarray.cpp
+c++/hackerrank/variablesizedarray.exe
+c++/interview_questions/rotationOfString.cpp
+c++/interview_questions/rotationOfString.exe
+c++/interview_questions/rough.cpp
+c++/interview_questions/rough.exe
+c++/programminginc++/.vscode/settings.json
+c++/programminginc++/PRG1.cpp
+c++/programminginc++/PRG1.exe
+c++/programminginc++/PRG10.cpp
+c++/programminginc++/PRG2.cpp
+c++/programminginc++/PRG2.exe
+c++/programminginc++/PRG3.cpp
+c++/programminginc++/PRG3.exe
+c++/programminginc++/PRG4.cpp
+c++/programminginc++/PRG4.exe
+c++/programminginc++/PRG5.cpp
+c++/programminginc++/PRG6.cpp
+c++/programminginc++/PRG7.cpp
+c++/programminginc++/PRG8.cpp
+c++/programminginc++/PRG9.cpp
+c++/programminginc++/PRGOUT1.txt
+c++/programminginc++/PRGOUT10.txt
+c++/programminginc++/PRGOUT2.txt
+c++/programminginc++/PRGOUT3.txt
+c++/programminginc++/PRGOUT4.txt
+c++/programminginc++/PRGOUT5.txt
+c++/programminginc++/PRGOUT6.txt
+c++/programminginc++/PRGOUT7.txt
+c++/programminginc++/PRGOUT8.txt
+c++/programminginc++/PRGOUT9.txt
+c++/programminginc++/a.exe
+c++/rough/.vscode/settings.json
+c++/rough/rough.cpp
+c++/rough/rough.exe
+c/DS ALGO/.vscode/settings.json
+c/DS ALGO/1_rough.c
+c/DS ALGO/2_swap.c
+c/DS ALGO/2_swap.exe
+c/DS ALGO/3_structBasics.c
+c/DS ALGO/3_structBasics.exe
+c/DS ALGO/4_heap.c
+c/DS ALGO/5_linkedList.c
+c/DS ALGO/5_linkedList.exe
+c/DS ALGO/heap.exe
+c/DS ALGO/temp.cpp
+c/DS ALGO/temp.exe
+c/practice/.vscode/snip.code-snippets
+c/practice/a.exe
+c/practice/comment.c
+c/practice/input.c
+c/practice/input.exe
+c/practice/practiceSet1.c
+c/practice/rough.c
+c/practice/rough.exe
+c/practice/variable.c
+c/practice/variable.exe
+cpp pointer/.vscode/settings.json
+cpp pointer/p1.cpp
+cpp pointer/p2.cpp
+cpp pointer/p2.exe
+cpp pointer/p3.cpp
+cpp pointer/p3.exe
+cpp pointer/p4.cpp
+cpp pointer/p4.exe
+cpp pointer/p5.cpp
+cpp pointer/p5.exe
+cpp pointer/p6.cpp
+cpp pointer/p6.exe
+cpp pointer/rough.cpp
+cpp pointer/rough.exe
+discrete_practical_cpp/.vscode/settings.json
+discrete_practical_cpp/1.cpp
+discrete_practical_cpp/1.exe
+discrete_practical_cpp/2.cpp
+discrete_practical_cpp/2.exe
+discrete_practical_cpp/22.exe
+discrete_practical_cpp/5.cpp
+discrete_practical_cpp/5.exe
+discrete_practical_cpp/6.cpp
+discrete_practical_cpp/6.exe
+discrete_practical_cpp/7.cpp
+discrete_practical_cpp/7.exe
+discrete_practical_cpp/8.cpp
+discrete_practical_cpp/8.exe
+discrete_practical_cpp/9.cpp
+discrete_practical_cpp/9.exe
+discrete_practical_cpp/rough.cpp
+discrete_practical_cpp/rough.exe
+discrete_practical_cpp/selectionSort.cpp
+discrete_practical_cpp/selectionSort.exe
+discrete_practical_cpp/tempCodeRunnerFile.cpp
+discrete_practical_cpp/trans.cpp
+discrete_practical_cpp/trans.exe
+dsUrgentPracticle/setA/.vscode/settings.json
+dsUrgentPracticle/setA/1.cpp
+dsUrgentPracticle/setA/1.exe
+dsUrgentPracticle/setA/2.cpp
+dsUrgentPracticle/setA/2.exe
+dsUrgentPracticle/setA/rough.cpp
+dsUrgentPracticle/setA/rough.exe
+dsUrgentPracticle/setB/Q2.cpp
+dsUrgentPracticle/setB/rough.cpp
+dsUrgentPracticle/setD/.vscode/settings.json
+dsUrgentPracticle/setD/1.cpp
+dsUrgentPracticle/setD/1.exe
+dsUrgentPracticle/setD/2.cpp
+dsUrgentPracticle/setD/2.exe
+dsUrgentPracticle/setD/rough.cpp
+dsUrgentPracticle/setD/rough.exe
+dsUrgentPracticle/setD/tempCodeRunnerFile.cpp
+dsUrgentPracticle/setD/tempCodeRunnerFile.exe
+html/.vscode/settings.json
+html/about.html
+html/index.html
+interview/Arrays And String/.idea/.gitignore
+interview/Arrays And String/.idea/misc.xml
+interview/Arrays And String/.idea/modules.xml
+interview/Arrays And String/Arrays And String.iml
+interview/Arrays And String/_1_sp1.java
+interview/Arrays And String/_2_ps1.java
+interview/Arrays And String/_3_ps2.java
+interview/Arrays And String/_4_ps4.java
+interview/Arrays And String/_5_ps4.java
+interview/Arrays And String/_6_ps6.java
+interview/Arrays And String/_7_ps6.java
+interview/Arrays And String/_8_ps7.java
+interview/Arrays And String/_9_ps8.java
+interview/Arrays And String/out/production/Arrays And String/.idea/.gitignore
+interview/Arrays And String/out/production/Arrays And String/.idea/misc.xml
+interview/Arrays And String/out/production/Arrays And String/.idea/modules.xml
+interview/Arrays And String/out/production/Arrays And String/Arrays And String.iml
+interview/Arrays And String/out/production/Arrays And String/_1_sp1.class
+interview/Arrays And String/out/production/Arrays And String/_2_ps1.class
+interview/Arrays And String/out/production/Arrays And String/_3_ps2.class
+interview/Arrays And String/out/production/Arrays And String/_4_ps4.class
+interview/Arrays And String/out/production/Arrays And String/_5_ps4.class
+interview/Arrays And String/out/production/Arrays And String/_6_ps6.class
+interview/Arrays And String/out/production/Arrays And String/_7_ps6.class
+interview/Arrays And String/out/production/Arrays And String/_8_ps7.class
+interview/Arrays And String/out/production/Arrays And String/_9_ps8.class
+interview/Arrays And String/out/production/Arrays And String/rough.class
+interview/Arrays And String/rough.class
+interview/Arrays And String/rough.java
+interview/Linked Lists/.idea/.gitignore
+interview/Linked Lists/.idea/Linked Lists.iml
+interview/Linked Lists/.idea/misc.xml
+interview/Linked Lists/.idea/modules.xml
+interview/Linked Lists/.idea/vcs.xml
+interview/Linked Lists/_1_ps1.class
+interview/Linked Lists/_1_ps1.java
+interview/Linked Lists/_2_ps2.class
+interview/Linked Lists/_2_ps2.java
+interview/Linked Lists/_3_ps3.class
+interview/Linked Lists/_3_ps3.java
+interview/Linked Lists/mosin.exe
+interview/Linked Lists/node.class
+interview/Linked Lists/node.java
+javaScriptDesktop/1_creatingDeletingDomElementUsingJavaScript/index.html
+javaScriptDesktop/1_creatingDeletingDomElementUsingJavaScript/script.js
+javaScriptDesktop/1_creatingDeletingDomElementUsingJavaScript/style.css
+javaScriptDesktop/BankApp/index.html
+javaScriptDesktop/BankApp/logo.jpg
+javaScriptDesktop/BankApp/script.js
+javaScriptDesktop/BankApp/style.css
+javaScriptDesktop/BasicsOfConsole.js
+javaScriptDesktop/GuessTheNumber/index.html
+javaScriptDesktop/GuessTheNumber/script.js
+javaScriptDesktop/GuessTheNumber/styleSheet.css
+javaScriptDesktop/boxRightLoading/indel.html
+javaScriptDesktop/boxRightLoading/script.js
+javaScriptDesktop/circleProject/index.html
+javaScriptDesktop/circleProject/script.js
+javaScriptDesktop/circleProject/style.css
+javaScriptDesktop/classesInJavaScript.js
+javaScriptDesktop/collegeProjectDsa/index.html
+javaScriptDesktop/collegeProjectDsa/rough.js
+javaScriptDesktop/collegeProjectDsa/script.js
+javaScriptDesktop/collegeProjectDsa/stylesheet.css
+javaScriptDesktop/dom.html
+javaScriptDesktop/dom.js
+javaScriptDesktop/fan/fan.jpg
+javaScriptDesktop/fan/fan2.jpg
+javaScriptDesktop/fan/fan3.jpg
+javaScriptDesktop/fan/fan4.jpg
+javaScriptDesktop/fan/fan5.png
+javaScriptDesktop/fan/index.html
+javaScriptDesktop/fan/script.js
+javaScriptDesktop/fan/style.css
+javaScriptDesktop/index.html
+javaScriptDesktop/loadingProject/index.html
+javaScriptDesktop/loadingProject/index.js
+javaScriptDesktop/mainProject/index.html
+javaScriptDesktop/mainProject/login.html
+javaScriptDesktop/mainProject/scriptMaterial/script1.js
+javaScriptDesktop/mainProject/styleMaterial/duplicate.py
+javaScriptDesktop/mainProject/styleMaterial/faceBookIcon.png
+javaScriptDesktop/mainProject/styleMaterial/gitHub.png
+javaScriptDesktop/mainProject/styleMaterial/google.png
+javaScriptDesktop/mainProject/styleMaterial/jump.py
+javaScriptDesktop/mainProject/styleMaterial/linkedIn.png
+javaScriptDesktop/mainProject/styleMaterial/login.css
+javaScriptDesktop/mainProject/styleMaterial/page1.css
+javaScriptDesktop/mainProject/styleMaterial/palindrome.py
+javaScriptDesktop/mainProject/styleMaterial/pic2.png
+javaScriptDesktop/mainProject/styleMaterial/rightBackground.png
+javaScriptDesktop/mainProject/styleMaterial/task.exe
+javaScriptDesktop/navBarProper/index.html
+javaScriptDesktop/navBarProper/script.js
+javaScriptDesktop/navBarProper/style.css
+javaScriptDesktop/overflowConcept/index.html
+javaScriptDesktop/practice/.vscode/settings.json
+javaScriptDesktop/practice/SufianAdam.js
+javaScriptDesktop/practice/activity.html
+javaScriptDesktop/practice/arrowFunction.js
+javaScriptDesktop/practice/bits.js
+javaScriptDesktop/practice/eventListener.js
+javaScriptDesktop/practice/fibonaciiSeries.js
+javaScriptDesktop/practice/forEachInJavaScript.js
+javaScriptDesktop/practice/functionExpression.js
+javaScriptDesktop/practice/primeNumber.js
+javaScriptDesktop/practice/rightTriangle.js
+javaScriptDesktop/practice/rough.js
+javaScriptDesktop/practice/stringSlice.js
+javaScriptDesktop/practice/tempCodeRunnerFile.js
+javaScriptDesktop/project1/app.js
+javaScriptDesktop/project1/index.html
+javaScriptDesktop/project1/style.css
+javaScriptDesktop/rough.js
+javaScriptDesktop/slider/Input_9072.pdf
+javaScriptDesktop/slider/index.html
+javaScriptDesktop/slider/pic1.jpeg
+javaScriptDesktop/slider/pic2.jpg
+javaScriptDesktop/slider/pic3.jpg
+javaScriptDesktop/slider/pic4.jpg
+javaScriptDesktop/slider/script.js
+javaScriptDesktop/slider/style.css
+javaScriptDesktop/thapa.js
+javaScriptDesktop/timer
+javaScriptDesktop/tut10.js
+javaScriptDesktop/tut11.js
+javaScriptDesktop/tut12.js
+javaScriptDesktop/tut14.js
+javaScriptDesktop/tut15.js
+javaScriptDesktop/tut16.js
+javaScriptDesktop/tut17.js
+javaScriptDesktop/tut18.js
+javaScriptDesktop/tut2.js
+javaScriptDesktop/tut20.js
+javaScriptDesktop/tut21.js
+javaScriptDesktop/tut22.js
+javaScriptDesktop/tut3.js
+javaScriptDesktop/tut4.js
+javaScriptDesktop/tut5.js
+javaScriptDesktop/tut6.js
+javaScriptDesktop/tut7.js
+javaScriptDesktop/tut8.js
+javaScriptDesktop/tut9.js
+javaScriptDesktop/udemyJavaScript/10_spreadOperator.js
+javaScriptDesktop/udemyJavaScript/11_spreadVsRestOperator.js
+javaScriptDesktop/udemyJavaScript/12_NullishOperator.js
+javaScriptDesktop/udemyJavaScript/13_forOfLoop.js
+javaScriptDesktop/udemyJavaScript/14_optionalChaining.js
+javaScriptDesktop/udemyJavaScript/15_loopingObject.js
+javaScriptDesktop/udemyJavaScript/16_highOrderFunction.js
+javaScriptDesktop/udemyJavaScript/17_highOrderFunction2.js
+javaScriptDesktop/udemyJavaScript/18_ArraySlice.js
+javaScriptDesktop/udemyJavaScript/19_arrayMap.js
+javaScriptDesktop/udemyJavaScript/1_ValuesAndDataVariables.js
+javaScriptDesktop/udemyJavaScript/20_arrayFilter.js
+javaScriptDesktop/udemyJavaScript/21_arrayReduce.js
+javaScriptDesktop/udemyJavaScript/22_arraySome.js
+javaScriptDesktop/udemyJavaScript/23_arrayEvery.js
+javaScriptDesktop/udemyJavaScript/24_arrayFill.js
+javaScriptDesktop/udemyJavaScript/25_arrayflat.js
+javaScriptDesktop/udemyJavaScript/26_numberConvertiong.js
+javaScriptDesktop/udemyJavaScript/27_mathInJavaScript.js
+javaScriptDesktop/udemyJavaScript/28_Date.js
+javaScriptDesktop/udemyJavaScript/29_objectsAndPrototypes.js
+javaScriptDesktop/udemyJavaScript/2_stringTemplate.js
+javaScriptDesktop/udemyJavaScript/30_protoTypes.js
+javaScriptDesktop/udemyJavaScript/31_Es6Classes.js
+javaScriptDesktop/udemyJavaScript/31_linkedList.js
+javaScriptDesktop/udemyJavaScript/3_object.js
+javaScriptDesktop/udemyJavaScript/4_objectsMethods.js
+javaScriptDesktop/udemyJavaScript/5_objectScope.js
+javaScriptDesktop/udemyJavaScript/6_primitiveVsReference.js
+javaScriptDesktop/udemyJavaScript/7_shallowVsDeepCopy.js
+javaScriptDesktop/udemyJavaScript/8_destructingArrays.js
+javaScriptDesktop/udemyJavaScript/9_destructingObjects.js
+javaScriptDesktop/udemyJavaScript/array.js
+javaScriptDesktop/udemyJavaScript/bubbleSort.js
+javaScriptDesktop/udemyJavaScript/callBack.js
+javaScriptDesktop/udemyJavaScript/fundamental.js
+javaScriptDesktop/udemyJavaScript/index.html
+javaScriptDesktop/udemyJavaScript/integer.js
+javaScriptDesktop/udemyJavaScript/maps.js
+javaScriptDesktop/udemyJavaScript/rough.js
+javaScriptDesktop/udemyJavaScript/sanskar.txt
+javaScriptDesktop/udemyJavaScript/sets.js
+javaScriptDesktop/udemyJavaScript/string.js
+javaScriptDesktop/udemyJavaScript/stringMethods.js
+javaScriptDesktop/udemyJavaScript/tempCodeRunnerFile.js
+javaScriptDesktop/udemyJavaScript/typeCoirsion.js
+javaScriptDesktop/udemyJavaScript/var.py
+javaScriptDesktop/udemyJavaScript/variables.class
+javaScriptDesktop/variable.js
+java_desktop/algorithmQuestions/array/rough.java
+java_desktop/college/MyFrame.java
+java_desktop/college/abstractclass.class
+java_desktop/college/abstractclass.java
+java_desktop/college/arrayListall.class
+java_desktop/college/arrayListall.java
+java_desktop/college/arraylist.java
+java_desktop/college/blockGame.class
+java_desktop/college/blockGame.java
+java_desktop/college/chetan.class
+java_desktop/college/constructor.java
+java_desktop/college/factorial.java
+java_desktop/college/frequencyOfNumber.class
+java_desktop/college/frequencyOfNumber.java
+java_desktop/college/getters_setters.java
+java_desktop/college/inheritance.java
+java_desktop/college/interface1.java
+java_desktop/college/javaSubarray.java
+java_desktop/college/khushalPattern.class
+java_desktop/college/khushalPattern.java
+java_desktop/college/listMethod.class
+java_desktop/college/listMethod.java
+java_desktop/college/logo.jpg
+java_desktop/college/matrixRotation.java
+java_desktop/college/methodOverriding.java
+java_desktop/college/methoddispatch.java
+java_desktop/college/oops.java
+java_desktop/college/pairOfTwoSlidingWindow.class
+java_desktop/college/pairOfTwoSlidingWindow.java
+java_desktop/college/primeNumbers.class
+java_desktop/college/primeNumbers.java
+java_desktop/college/r.c
+java_desktop/college/r.exe
+java_desktop/college/rough.java
+java_desktop/college/rough.py
+java_desktop/college/tempCodeRunnerFile.java
+java_desktop/college/this_and_super.java
+java_desktop/college/truthtable.class
+java_desktop/college/truthtable.java
+java_desktop/college_practice/.vscode/settings.json
+java_desktop/college_practice/A.class
+java_desktop/college_practice/ArrayListMethod.java
+java_desktop/college_practice/B.class
+java_desktop/college_practice/BST.class
+java_desktop/college_practice/BST.java
+java_desktop/college_practice/BT.class
+java_desktop/college_practice/BufferReaderInput.java
+java_desktop/college_practice/C.class
+java_desktop/college_practice/Cmd.class
+java_desktop/college_practice/Cmd.java
+java_desktop/college_practice/Data.txt
+java_desktop/college_practice/Enum1.java
+java_desktop/college_practice/Enum2.java
+java_desktop/college_practice/JesseAndCookies.class
+java_desktop/college_practice/JesseAndCookies.java
+java_desktop/college_practice/MATRIX_1.class
+java_desktop/college_practice/MATRIX_1.java
+java_desktop/college_practice/MatrixFunction.class
+java_desktop/college_practice/MatrixRankSolution.class
+java_desktop/college_practice/MaxAgeException.class
+java_desktop/college_practice/MyException.class
+java_desktop/college_practice/Split.java
+java_desktop/college_practice/UserInputaAll.java
+java_desktop/college_practice/VariableFunction.class
+java_desktop/college_practice/VariableSolution.class
+java_desktop/college_practice/abstractClass.java
+java_desktop/college_practice/adult.class
+java_desktop/college_practice/allSubString.java
+java_desktop/college_practice/arrayDeque.class
+java_desktop/college_practice/arrayDeque.java
+java_desktop/college_practice/arrayList.java
+java_desktop/college_practice/bits.class
+java_desktop/college_practice/bits.java
+java_desktop/college_practice/bittu.class
+java_desktop/college_practice/bittu.java
+java_desktop/college_practice/boy.class
+java_desktop/college_practice/bucket.java
+java_desktop/college_practice/complex.class
+java_desktop/college_practice/confuse.class
+java_desktop/college_practice/confuse.java
+java_desktop/college_practice/help.cpp
+java_desktop/college_practice/help.exe
+java_desktop/college_practice/insertionInBST.class
+java_desktop/college_practice/insertionInBST.java
+java_desktop/college_practice/interfaceImp.java
+java_desktop/college_practice/khushal.java
+java_desktop/college_practice/linkedList.java
+java_desktop/college_practice/list.java
+java_desktop/college_practice/logicIsMuchRequired.class
+java_desktop/college_practice/logicIsMuchRequired.java
+java_desktop/college_practice/map.class
+java_desktop/college_practice/mapInJava.class
+java_desktop/college_practice/mapInJava.java
+java_desktop/college_practice/matrices.java
+java_desktop/college_practice/matrixRotation.java
+java_desktop/college_practice/mergeAndCompare.class
+java_desktop/college_practice/mergeAndCompare.java
+java_desktop/college_practice/multidimensionalArraylist.class
+java_desktop/college_practice/multidimensionalArraylist.java
+java_desktop/college_practice/mymyException.class
+java_desktop/college_practice/mymyException.java
+java_desktop/college_practice/node.class
+java_desktop/college_practice/pair.java
+java_desktop/college_practice/pattern.java
+java_desktop/college_practice/poisnousPlant.class
+java_desktop/college_practice/poisnousPlant.java
+java_desktop/college_practice/pranav.class
+java_desktop/college_practice/pranav.java
+java_desktop/college_practice/repeatedString.java
+java_desktop/college_practice/rotation.class
+java_desktop/college_practice/rotation.java
+java_desktop/college_practice/rough.class
+java_desktop/college_practice/rough.java
+java_desktop/college_practice/setInJava.class
+java_desktop/college_practice/setInJava.java
+java_desktop/college_practice/singleLinkedList.class
+java_desktop/college_practice/specificException.java
+java_desktop/college_practice/stringBufferJava.class
+java_desktop/college_practice/stringBufferJava.java
+java_desktop/college_practice/stringFunction.java
+java_desktop/college_practice/subArrayNonContiguous.java
+java_desktop/college_practice/subArraydivision.java
+java_desktop/college_practice/subString.java
+java_desktop/college_practice/sufian.java
+java_desktop/college_practice/sushantComplexProbelm.class
+java_desktop/college_practice/sushantComplexProbelm.java
+java_desktop/college_practice/tempCodeRunnerFile.java
+java_desktop/college_practice/thread.java
+java_desktop/college_practice/threadUsingRunnable.java
+java_desktop/college_practice/toStringInJava.class
+java_desktop/college_practice/toStringInJava.java
+java_desktop/college_practice/try_catch.java
+java_desktop/college_practice/urgent.py
+java_desktop/college_practice/vocabulary.java
+java_desktop/javaAwt/Q6.class
+java_desktop/javaAwt/Q6.java
+java_desktop/javaAwt/javaFrame.class
+java_desktop/javaAwt/javaFrame.java
+java_desktop/javaAwt/javaKeyListener.class
+java_desktop/javaAwt/javaKeyListener.java
+java_desktop/javaAwt/mouseActivity.class
+java_desktop/javaAwt/myFrame.class
+java_desktop/javaAwt/myKey.class
+java_desktop/javaAwt/rough.java
+java_desktop/javaDsAlgo/10_LinkedList/DLL.class
+java_desktop/javaDsAlgo/10_LinkedList/_1_SinglyLinkedList.txt
+java_desktop/javaDsAlgo/10_LinkedList/_2_DoublyLinkedList.class
+java_desktop/javaDsAlgo/10_LinkedList/_2_DoublyLinkedList.java
+java_desktop/javaDsAlgo/10_LinkedList/node.class
+java_desktop/javaDsAlgo/10_LinkedList/rough.class
+java_desktop/javaDsAlgo/10_LinkedList/rough.java
+java_desktop/javaDsAlgo/10_LinkedList/singlyLinkedList.class
+java_desktop/javaDsAlgo/11_Stack/_1_BalanceParenthesis.class
+java_desktop/javaDsAlgo/11_Stack/_1_BalanceParenthesis.java
+java_desktop/javaDsAlgo/11_Stack/_2_PreviousGreaterElement.class
+java_desktop/javaDsAlgo/11_Stack/_2_StockSpan.java
+java_desktop/javaDsAlgo/11_Stack/_3_PreviousGreaterElement.class
+java_desktop/javaDsAlgo/11_Stack/_3_PreviousGreaterElement.java
+java_desktop/javaDsAlgo/11_Stack/_4_NextGreaterElement.class
+java_desktop/javaDsAlgo/11_Stack/_4_NextGreaterElement.java
+java_desktop/javaDsAlgo/11_Stack/_5_GetMinInOnSpace.java
+java_desktop/javaDsAlgo/11_Stack/_6_GetMinConstantSpace.class
+java_desktop/javaDsAlgo/11_Stack/_6_GetMinConstantSpace.java
+java_desktop/javaDsAlgo/11_Stack/node.class
+java_desktop/javaDsAlgo/11_Stack/rough.java
+java_desktop/javaDsAlgo/11_Stack/stack.class
+java_desktop/javaDsAlgo/11_Stack/stackMinConstant.class
+java_desktop/javaDsAlgo/11_Stack/stackUsingLinkedList.class
+java_desktop/javaDsAlgo/11_Stack/stackUsingLinkedList.java
+java_desktop/javaDsAlgo/14_BT/_1_nodeBT.class
+java_desktop/javaDsAlgo/14_BT/_1_nodeBT.java
+java_desktop/javaDsAlgo/14_BT/_2_HeightOfBT.class
+java_desktop/javaDsAlgo/14_BT/_2_HeightOfBT.java
+java_desktop/javaDsAlgo/14_BT/_3_LevelOrder.class
+java_desktop/javaDsAlgo/14_BT/_3_LevelOrder.java
+java_desktop/javaDsAlgo/14_BT/_4_NodeAtKDistance.class
+java_desktop/javaDsAlgo/14_BT/_4_NodeAtKDistance.java
+java_desktop/javaDsAlgo/14_BT/_5_CountNodes.class
+java_desktop/javaDsAlgo/14_BT/_5_CountNodes.java
+java_desktop/javaDsAlgo/14_BT/_6_MaximumInTree.class
+java_desktop/javaDsAlgo/14_BT/_6_MaximumInTree.java
+java_desktop/javaDsAlgo/14_BT/_7_CheckSumRoot.class
+java_desktop/javaDsAlgo/14_BT/_7_CheckSumRoot.java
+java_desktop/javaDsAlgo/14_BT/_8_BalanceTree.java
+java_desktop/javaDsAlgo/14_BT/node.class
+java_desktop/javaDsAlgo/14_BT/rough.java
+java_desktop/javaDsAlgo/15_BST/_1_nodeOfBST.java
+java_desktop/javaDsAlgo/15_BST/_2_AddInBST.class
+java_desktop/javaDsAlgo/15_BST/_2_AddInBST.java
+java_desktop/javaDsAlgo/15_BST/_3_SearchInBST.class
+java_desktop/javaDsAlgo/15_BST/_3_SearchInBST.java
+java_desktop/javaDsAlgo/15_BST/_4_DeleteInBST.class
+java_desktop/javaDsAlgo/15_BST/_4_DeleteInBST.java
+java_desktop/javaDsAlgo/15_BST/_5_FloorInBST.java
+java_desktop/javaDsAlgo/15_BST/_6_LevelOrderInBST.class
+java_desktop/javaDsAlgo/15_BST/_6_LevelOrderInBST.java
+java_desktop/javaDsAlgo/15_BST/node.class
+java_desktop/javaDsAlgo/15_BST/rough.java
+java_desktop/javaDsAlgo/16_Heap/_1_MinHeapify.class
+java_desktop/javaDsAlgo/16_Heap/_1_MinHeapify.java
+java_desktop/javaDsAlgo/16_Heap/_2_MinHeap.class
+java_desktop/javaDsAlgo/16_Heap/_2_MinHeap.java
+java_desktop/javaDsAlgo/16_Heap/_3_MaxHeap.class
+java_desktop/javaDsAlgo/16_Heap/_3_MaxHeap.java
+java_desktop/javaDsAlgo/16_Heap/maxHeap.class
+java_desktop/javaDsAlgo/16_Heap/minHeap.class
+java_desktop/javaDsAlgo/16_Heap/rough.class
+java_desktop/javaDsAlgo/16_Heap/rough.java
+java_desktop/javaDsAlgo/16_Heap/tempCodeRunnerFile.java
+java_desktop/javaDsAlgo/18_Graph/DfsGraph.class
+java_desktop/javaDsAlgo/18_Graph/Graph.class
+java_desktop/javaDsAlgo/18_Graph/GraphAdj.class
+java_desktop/javaDsAlgo/18_Graph/bfs.class
+java_desktop/javaDsAlgo/18_Graph/bfs.java
+java_desktop/javaDsAlgo/18_Graph/dfs.class
+java_desktop/javaDsAlgo/18_Graph/dfs.java
+java_desktop/javaDsAlgo/18_Graph/graphRepresentation.class
+java_desktop/javaDsAlgo/18_Graph/graphRepresentation.java
+java_desktop/javaDsAlgo/18_Graph/graphUsingAdjecencyList.class
+java_desktop/javaDsAlgo/18_Graph/graphUsingAdjecencyList.java
+java_desktop/javaDsAlgo/18_Graph/hasCycle.class
+java_desktop/javaDsAlgo/18_Graph/hasCycle.java
+java_desktop/javaDsAlgo/18_Graph/prims.class
+java_desktop/javaDsAlgo/18_Graph/prims.java
+java_desktop/javaDsAlgo/18_Graph/rough.class
+java_desktop/javaDsAlgo/18_Graph/rough.java
+java_desktop/javaDsAlgo/18_Graph/shortestPathInUndirectedGraph.class
+java_desktop/javaDsAlgo/18_Graph/shortestPathInUndirectedGraph.java
+java_desktop/javaDsAlgo/22_Trie/rough.java
+java_desktop/javaDsAlgo/3_BitManupulation/_1BitwiseOperatorInJava.class
+java_desktop/javaDsAlgo/3_BitManupulation/_1BitwiseOperatorInJava.java
+java_desktop/javaDsAlgo/3_BitManupulation/_2BitNot.class
+java_desktop/javaDsAlgo/3_BitManupulation/_2BitNot.java
+java_desktop/javaDsAlgo/3_BitManupulation/_3CheckKthBitIsSetOrNot.class
+java_desktop/javaDsAlgo/3_BitManupulation/_3CheckKthBitIsSetOrNot.java
+java_desktop/javaDsAlgo/3_BitManupulation/_4.class
+java_desktop/javaDsAlgo/3_BitManupulation/_4.java
+java_desktop/javaDsAlgo/3_BitManupulation/_5.class
+java_desktop/javaDsAlgo/3_BitManupulation/_5.java
+java_desktop/javaDsAlgo/3_BitManupulation/_6.class
+java_desktop/javaDsAlgo/3_BitManupulation/_6.java
+java_desktop/javaDsAlgo/3_BitManupulation/_7.class
+java_desktop/javaDsAlgo/3_BitManupulation/_7.java
+java_desktop/javaDsAlgo/3_BitManupulation/_8.class
+java_desktop/javaDsAlgo/3_BitManupulation/_8.java
+java_desktop/javaDsAlgo/3_BitManupulation/rough.java
+java_desktop/javaDsAlgo/4_Recursion/_1_print1ToN.class
+java_desktop/javaDsAlgo/4_Recursion/_1_print1ToN.java
+java_desktop/javaDsAlgo/4_Recursion/_2_headVsTailRecursion.class
+java_desktop/javaDsAlgo/4_Recursion/_2_headVsTailRecursion.java
+java_desktop/javaDsAlgo/4_Recursion/_3_SumOfNumbers.class
+java_desktop/javaDsAlgo/4_Recursion/_3_SumOfNumbers.java
+java_desktop/javaDsAlgo/4_Recursion/_4_Palindrome.class
+java_desktop/javaDsAlgo/4_Recursion/_4_Palindrome.java
+java_desktop/javaDsAlgo/4_Recursion/_5_RopeCuttingProblem.class
+java_desktop/javaDsAlgo/4_Recursion/_5_RopeCuttingProblem.java
+java_desktop/javaDsAlgo/4_Recursion/_6_SubsetSum.java
+java_desktop/javaDsAlgo/4_Recursion/rough.class
+java_desktop/javaDsAlgo/4_Recursion/rough.java
+java_desktop/javaDsAlgo/5_Arrays/_1_LargestNumber.class
+java_desktop/javaDsAlgo/5_Arrays/_1_LargestNumber.java
+java_desktop/javaDsAlgo/5_Arrays/_2_SecondLargestNumber.class
+java_desktop/javaDsAlgo/5_Arrays/_2_SecondLargestNumber.java
+java_desktop/javaDsAlgo/5_Arrays/_3_CheckSortedArray.class
+java_desktop/javaDsAlgo/5_Arrays/_3_CheckSortedArray.java
+java_desktop/javaDsAlgo/5_Arrays/_4_ReverseArray.class
+java_desktop/javaDsAlgo/5_Arrays/_4_ReverseArray.java
+java_desktop/javaDsAlgo/5_Arrays/_5_RemoveElementFromSortedArray.class
+java_desktop/javaDsAlgo/5_Arrays/_5_RemoveElementFromSortedArray.java
+java_desktop/javaDsAlgo/5_Arrays/_6_MoveZeroToEnd.class
+java_desktop/javaDsAlgo/5_Arrays/_6_MoveZeroToEnd.java
+java_desktop/javaDsAlgo/5_Arrays/_7_LeftRotationByOne.class
+java_desktop/javaDsAlgo/5_Arrays/_7_LeftRotationByOne.java
+java_desktop/javaDsAlgo/5_Arrays/_8_LeadersInArray.class
+java_desktop/javaDsAlgo/5_Arrays/_8_LeadersInArray.java
+java_desktop/javaDsAlgo/5_Arrays/rough.java
+java_desktop/javaDsAlgo/6_Searching/_1_BinarySearch.class
+java_desktop/javaDsAlgo/6_Searching/_1_BinarySearch.java
+java_desktop/javaDsAlgo/6_Searching/_2_FirstIndexOfElement.class
+java_desktop/javaDsAlgo/6_Searching/_2_FirstIndexOfElement.java
+java_desktop/javaDsAlgo/6_Searching/_3_LastIndexOfElement.class
+java_desktop/javaDsAlgo/6_Searching/_3_LastIndexOfElement.java
+java_desktop/javaDsAlgo/6_Searching/_4_TotalOccurrance.class
+java_desktop/javaDsAlgo/6_Searching/_4_TotalOccurrance.java
+java_desktop/javaDsAlgo/6_Searching/rough.java
+java_desktop/javaDsAlgo/7_Sorting/7_Sorting.iml
+java_desktop/javaDsAlgo/7_Sorting/_1_BubbleSorting.class
+java_desktop/javaDsAlgo/7_Sorting/_1_BubbleSorting.java
+java_desktop/javaDsAlgo/7_Sorting/_2_SelectionSort.class
+java_desktop/javaDsAlgo/7_Sorting/_2_SelectionSort.java
+java_desktop/javaDsAlgo/7_Sorting/_3_InsertionSort.class
+java_desktop/javaDsAlgo/7_Sorting/_3_InsertionSort.java
+java_desktop/javaDsAlgo/7_Sorting/_4_MergeSort.class
+java_desktop/javaDsAlgo/7_Sorting/_4_MergeSort.java
+java_desktop/javaDsAlgo/7_Sorting/_5_QuickSort.class
+java_desktop/javaDsAlgo/7_Sorting/_5_QuickSort.java
+java_desktop/javaDsAlgo/7_Sorting/_6_ShellSort.class
+java_desktop/javaDsAlgo/7_Sorting/_6_ShellSort.java
+java_desktop/javaDsAlgo/7_Sorting/rough.java
+java_desktop/javaDsAlgo/7_Sorting/t.py
+java_desktop/javaDsAlgo/7_Sorting/tempCodeRunnerFile.java
+java_desktop/javaDsAlgo/8_Hashing/_1_LinearAddressHashing.class
+java_desktop/javaDsAlgo/8_Hashing/_1_LinearAddressHashing.java
+java_desktop/javaDsAlgo/8_Hashing/_2_LinearChaining.class
+java_desktop/javaDsAlgo/8_Hashing/_2_LinearChaining.java
+java_desktop/javaDsAlgo/8_Hashing/_3_HashSetInJava.class
+java_desktop/javaDsAlgo/8_Hashing/_3_HashSetInJava.java
+java_desktop/javaDsAlgo/8_Hashing/_4_HashMapInJava.class
+java_desktop/javaDsAlgo/8_Hashing/_4_HashMapInJava.java
+java_desktop/javaDsAlgo/8_Hashing/_5_CountDistictElement.class
+java_desktop/javaDsAlgo/8_Hashing/_5_CountDistictElement.java
+java_desktop/javaDsAlgo/8_Hashing/_6_CountFrequency.class
+java_desktop/javaDsAlgo/8_Hashing/_6_CountFrequency.java
+java_desktop/javaDsAlgo/8_Hashing/_7_PairWithGivenSum.class
+java_desktop/javaDsAlgo/8_Hashing/_7_PairWithGivenSum.java
+java_desktop/javaDsAlgo/8_Hashing/chainSet.class
+java_desktop/javaDsAlgo/8_Hashing/node.class
+java_desktop/javaDsAlgo/8_Hashing/rough.java
+java_desktop/javaDsAlgo/8_Hashing/set.class
+java_desktop/javaDsAlgo/9_Strings/_1_StringsInJava.class
+java_desktop/javaDsAlgo/9_Strings/_1_StringsInJava.java
+java_desktop/javaDsAlgo/9_Strings/_2_StringBuilderInJava.class
+java_desktop/javaDsAlgo/9_Strings/_2_StringBuilderInJava.java
+java_desktop/javaDsAlgo/9_Strings/_3_PalindromeCheck.class
+java_desktop/javaDsAlgo/9_Strings/_3_PalindromeCheck.java
+java_desktop/javaDsAlgo/9_Strings/_4_ToCheckGivenStringIsSubSequenceOrNot.class
+java_desktop/javaDsAlgo/9_Strings/_4_ToCheckGivenStringIsSubSequenceOrNot.java
+java_desktop/javaDsAlgo/9_Strings/_5_CheckForAnagram.class
+java_desktop/javaDsAlgo/9_Strings/_5_CheckForAnagram.java
+java_desktop/javaDsAlgo/9_Strings/_6_LeftMostRepeatingCharacter.class
+java_desktop/javaDsAlgo/9_Strings/_6_LeftMostRepeatingCharacter.java
+java_desktop/javaDsAlgo/9_Strings/_7_ReverseTheSentence.class
+java_desktop/javaDsAlgo/9_Strings/_7_ReverseTheSentence.java
+java_desktop/javaDsAlgo/9_Strings/_8_RotationCheck.class
+java_desktop/javaDsAlgo/9_Strings/_8_RotationCheck.java
+java_desktop/javaDsAlgo/9_Strings/_9_NonRepeatingLongestSubString.class
+java_desktop/javaDsAlgo/9_Strings/_9_NonRepeatingLongestSubString.java
+java_desktop/javaDsAlgo/9_Strings/rough.class
+java_desktop/javaDsAlgo/9_Strings/rough.java
+java_desktop/javaDsAlgo/9_Strings/temp.cpp
+java_desktop/javaDsAlgo/9_Strings/temp.exe
+java_desktop/javaDsAlgo/9_Strings/tempCodeRunnerFile.java
+java_desktop/javaDsAlgo/rough.class
+java_desktop/javaDsAlgo/rough.java
+java_desktop/javaOops/allAboutThis.class
+java_desktop/javaOops/allAboutThis.java
+java_desktop/javaOops/mobile.class
+java_desktop/javaOops/rough.class
+java_desktop/javaOops/rough.java
+java_desktop/javaPractical/Data1.txt
+java_desktop/javaPractical/Data2.txt
+java_desktop/javaPractical/Q1.class
+java_desktop/javaPractical/Q1.java
+java_desktop/javaPractical/Q10.class
+java_desktop/javaPractical/Q10.java
+java_desktop/javaPractical/Q10frame.class
+java_desktop/javaPractical/Q10frame.java
+java_desktop/javaPractical/Q11.class
+java_desktop/javaPractical/Q11.java
+java_desktop/javaPractical/Q11_swing.class
+java_desktop/javaPractical/Q11_swing.java
+java_desktop/javaPractical/Q12.class
+java_desktop/javaPractical/Q12.java
+java_desktop/javaPractical/Q2.java
+java_desktop/javaPractical/Q3.java
+java_desktop/javaPractical/Q4.java
+java_desktop/javaPractical/Q5.class
+java_desktop/javaPractical/Q5.java
+java_desktop/javaPractical/Q6.class
+java_desktop/javaPractical/Q6.java
+java_desktop/javaPractical/Q7.class
+java_desktop/javaPractical/Q7.java
+java_desktop/javaPractical/Q8.class
+java_desktop/javaPractical/Q8.java
+java_desktop/javaPractical/Q8_swing.class
+java_desktop/javaPractical/Q8_swing.java
+java_desktop/javaPractical/Q9.class
+java_desktop/javaPractical/Q9.java
+java_desktop/javaPractical/Q9_swing.class
+java_desktop/javaPractical/Q9_swing.java
+java_desktop/javaPractical/collegeData.class
+java_desktop/javaPractical/complex.class
+java_desktop/javaPractical/data.class
+java_desktop/javaPractical/file.class
+java_desktop/javaPractical/mouseActivity.class
+java_desktop/javaPractical/mouseActivityUsingSwing.class
+java_desktop/javaPractical/myFrame.class
+java_desktop/javaPractical/myFrame2.class
+java_desktop/javaPractical/myKey.class
+java_desktop/javaPractical/myKeyUsingSwing.class
+java_desktop/javaPractical/pinkBackground.class
+java_desktop/javaPractical/rough.class
+java_desktop/javaPractical/rough.java
+java_desktop/javaPractical/stack.class
+java_desktop/javaPractical/tempCodeRunnerFile.java
+java_desktop/javaSwing/JButten.java
+java_desktop/javaSwing/Jlabel.java
+java_desktop/javaSwing/Jlayouredpane.class
+java_desktop/javaSwing/Jlayouredpane.java
+java_desktop/javaSwing/LaunchPage.class
+java_desktop/javaSwing/LaunchPage.java
+java_desktop/javaSwing/NewWindow.class
+java_desktop/javaSwing/NewWindow.java
+java_desktop/javaSwing/borderLayout.class
+java_desktop/javaSwing/borderLayout.java
+java_desktop/javaSwing/button.class
+java_desktop/javaSwing/button.java
+java_desktop/javaSwing/button.jpg
+java_desktop/javaSwing/dialogbox.class
+java_desktop/javaSwing/dialogbox.java
+java_desktop/javaSwing/flowLayout.java
+java_desktop/javaSwing/frames.class
+java_desktop/javaSwing/frames.java
+java_desktop/javaSwing/image.jpg
+java_desktop/javaSwing/inputTextField.java
+java_desktop/javaSwing/jframeBasics.class
+java_desktop/javaSwing/jframeBasics.java
+java_desktop/javaSwing/labels.class
+java_desktop/javaSwing/labels.java
+java_desktop/javaSwing/myFrame.class
+java_desktop/javaSwing/myFrame.java
+java_desktop/javaSwing/openNewWindow.class
+java_desktop/javaSwing/openNewWindow.java
+java_desktop/javaSwing/panel.class
+java_desktop/javaSwing/panel.java
+java_desktop/javaSwing/panels.class
+java_desktop/javaSwing/panels.java
+java_desktop/javaSwing/rough.class
+java_desktop/javaSwing/rough.java
+java_desktop/javaSwing/slider.class
+java_desktop/javaSwing/slider.java
+java_desktop/javaSwing/sliderDemo.class
+java_desktop/javaSwing/sliderDemo.java
+java_desktop/javaSwing/thumb.png
+java_desktop/java_dsa/.vscode/settings.json
+java_desktop/java_dsa/BST.class
+java_desktop/java_dsa/BT.class
+java_desktop/java_dsa/Node.class
+java_desktop/java_dsa/arrayDeque.class
+java_desktop/java_dsa/arrayDequeGenerics.class
+java_desktop/java_dsa/arrayDequeGenerics.java
+java_desktop/java_dsa/arrayDequeUsingLinkedList.class
+java_desktop/java_dsa/arrayDequeUsingLinkedList.java
+java_desktop/java_dsa/arrayList.java
+java_desktop/java_dsa/bST.java
+java_desktop/java_dsa/balancedBracket.java
+java_desktop/java_dsa/binaryTree.java
+java_desktop/java_dsa/circularLinkedList.class
+java_desktop/java_dsa/circularLinkedList.java
+java_desktop/java_dsa/circularList.class
+java_desktop/java_dsa/hackkerrankLinkedList.java
+java_desktop/java_dsa/linkedList.java
+java_desktop/java_dsa/minHeap.class
+java_desktop/java_dsa/minHeap.java
+java_desktop/java_dsa/mosin.cpp
+java_desktop/java_dsa/mosin.exe
+java_desktop/java_dsa/myLinkedList.java
+java_desktop/java_dsa/myPriorityQueue.class
+java_desktop/java_dsa/ordAndChr.class
+java_desktop/java_dsa/ordAndChr.java
+java_desktop/java_dsa/poi
+java_desktop/java_dsa/poisnousPlant.class
+java_desktop/java_dsa/poisnousPlant.java
+java_desktop/java_dsa/rough.class
+java_desktop/java_dsa/rough.java
+java_desktop/java_dsa/set.java
+java_desktop/java_dsa/stackUsingLinkedList.java
+java_desktop/java_dsa/textEditor.java
+java_desktop/java_dsa/waiter.class
+java_desktop/java_dsa/waiter.java
+java_desktop/semesterAssignments/23july ASSIGNMENt/.vscode/settings.json
+java_desktop/semesterAssignments/23july ASSIGNMENt/Q1_a.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/Q1_a.java
+java_desktop/semesterAssignments/23july ASSIGNMENt/Q2.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/Q2.java
+java_desktop/semesterAssignments/23july ASSIGNMENt/Test.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/k.cpp
+java_desktop/semesterAssignments/23july ASSIGNMENt/k.exe
+java_desktop/semesterAssignments/23july ASSIGNMENt/material/A/area.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/material/A/area.java
+java_desktop/semesterAssignments/23july ASSIGNMENt/material/P/pattern.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/material/P/pattern.java
+java_desktop/semesterAssignments/23july ASSIGNMENt/rough.class
+java_desktop/semesterAssignments/23july ASSIGNMENt/rough.java
+java_desktop/semesterAssignments/MATRIX1.java
+java_desktop/semesterAssignments/Matrix.class
+java_desktop/semesterAssignments/Q1.class
+java_desktop/semesterAssignments/Q1.java
+java_desktop/semesterAssignments/Q2.class
+java_desktop/semesterAssignments/Q2.java
+java_desktop/semesterAssignments/Q3.class
+java_desktop/semesterAssignments/Q3.java
+java_desktop/semesterAssignments/Q4.class
+java_desktop/semesterAssignments/Q4.java
+java_desktop/semesterAssignments/Q5.class
+java_desktop/semesterAssignments/Q5.java
+java_desktop/semesterAssignments/Q6.class
+java_desktop/semesterAssignments/Q6.java
+java_desktop/semesterAssignments/Question1.class
+java_desktop/semesterAssignments/Question1.java
+java_desktop/semesterAssignments/Question2.java
+java_desktop/semesterAssignments/Question3.java
+java_desktop/semesterAssignments/Question4.java
+java_desktop/semesterAssignments/Student.class
+java_desktop/semesterAssignments/assignment2/Abstract.class
+java_desktop/semesterAssignments/assignment2/Q3.class
+java_desktop/semesterAssignments/assignment2/Q3.java
+java_desktop/semesterAssignments/assignment2/Q4.class
+java_desktop/semesterAssignments/assignment2/Q4.java
+java_desktop/semesterAssignments/assignment2/Q5.class
+java_desktop/semesterAssignments/assignment2/Q5.java
+java_desktop/semesterAssignments/assignment2/SubClass.class
+java_desktop/semesterAssignments/assignment2/firstChild.class
+java_desktop/semesterAssignments/assignment2/parent.class
+java_desktop/semesterAssignments/assignment2/rough.java
+java_desktop/semesterAssignments/assignment2/secondChild.class
+java_desktop/semesterAssignments/assignment3/A.class
+java_desktop/semesterAssignments/assignment3/B.class
+java_desktop/semesterAssignments/assignment3/C.class
+java_desktop/semesterAssignments/assignment3/MainClass.class
+java_desktop/semesterAssignments/assignment3/P.class
+java_desktop/semesterAssignments/assignment3/Q.class
+java_desktop/semesterAssignments/assignment3/Q3main.java
+java_desktop/semesterAssignments/assignment3/Q4.class
+java_desktop/semesterAssignments/assignment3/Q4.java
+java_desktop/semesterAssignments/assignment3/R.class
+java_desktop/semesterAssignments/assignment3/p/Q2main.java
+java_desktop/semesterAssignments/assignment3/p1/twoDim.java
+java_desktop/semesterAssignments/assignment3/p2/threeDim.java
+java_desktop/semesterAssignments/assignment3/package1/shape.class
+java_desktop/semesterAssignments/assignment3/package1/shape.java
+java_desktop/semesterAssignments/assignment3/package2/rectangle.class
+java_desktop/semesterAssignments/assignment3/package2/rectangle.java
+java_desktop/semesterAssignments/assignment3/package3/circle.class
+java_desktop/semesterAssignments/assignment3/package3/circle.java
+java_desktop/semesterAssignments/assignment3/rough.class
+java_desktop/semesterAssignments/assignment3/rough.java
+java_desktop/semesterAssignments/assignment3/shape.class
+java_desktop/semesterAssignments/assignment4/Demo.class
+java_desktop/semesterAssignments/assignment4/ExcessMembersException.class
+java_desktop/semesterAssignments/assignment4/InvalidEmailException.class
+java_desktop/semesterAssignments/assignment4/Person.class
+java_desktop/semesterAssignments/assignment4/Q1.class
+java_desktop/semesterAssignments/assignment4/Q1.java
+java_desktop/semesterAssignments/assignment4/Q2.class
+java_desktop/semesterAssignments/assignment4/Q2DEMO.class
+java_desktop/semesterAssignments/assignment4/Q2DEMO.java
+java_desktop/semesterAssignments/assignment4/exam1.txt
+java_desktop/semesterAssignments/assignment4/exam2.txt
+java_desktop/semesterAssignments/assignment4/rough.class
+java_desktop/semesterAssignments/assignment4/rough.java
+java_desktop/semesterAssignments/liveAssignment/Q2.class
+java_desktop/semesterAssignments/liveAssignment/Q2.java
+java_desktop/semesterAssignments/liveAssignment/newFrame.class
+java_desktop/semesterAssignments/liveAssignment/rough.class
+java_desktop/semesterAssignments/liveAssignment/rough.java
+java_desktop/semesterAssignments/liveAssignment/sol2.class
+java_desktop/semesterAssignments/manishaBagri/rough.java
+java_desktop/semesterAssignments/material/area/area.class
+java_desktop/semesterAssignments/material/pattern/pattern.class
+java_desktop/vocabulary/graphics.class
+java_desktop/vocabulary/graphics.java
+java_desktop/vocabulary/logicPattern.java
+java_desktop/vocabulary/main.class
+java_desktop/vocabulary/main.java
+java_desktop/vocabulary/rough.class
+java_desktop/vocabulary/rough.java
+python/DSA python/10_set.py
+python/DSA python/11_Counter.py
+python/DSA python/12_BinarySearch.py
+python/DSA python/13_BinaraySearch.py
+python/DSA python/14_BinarySearchPivot.py
+python/DSA python/15_BinarySearchFirstAndLastLocation.py
+python/DSA python/16_LinkedList.py
+python/DSA python/17_CircularLinkedList.py
+python/DSA python/18_SpaceLinkedList.py
+python/DSA python/19_BinarySearchTree.py
+python/DSA python/1_ListSorted.py
+python/DSA python/20_priorityQueue.py
+python/DSA python/21_medianOfRunningStream.py
+python/DSA python/2_ListReverse.py
+python/DSA python/3_ListComprehension.py
+python/DSA python/4_DictionaryComprehension.py
+python/DSA python/5_Zip.py
+python/DSA python/6_ArrayDeque.py
+python/DSA python/7_string.py
+python/DSA python/8_StringMethods.py
+python/DSA python/9_StringFormat.py
+python/DSA python/rough.py
+python/Django/.idea/.gitignore
+python/Django/.idea/Django.iml
+python/Django/.idea/inspectionProfiles/profiles_settings.xml
+python/Django/.idea/misc.xml
+python/Django/.idea/modules.xml
+python/Django/.idea/vcs.xml
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/__init__.py
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/__pycache__/__init__.cpython-39.pyc
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/__pycache__/settings.cpython-39.pyc
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/__pycache__/urls.cpython-39.pyc
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/__pycache__/wsgi.cpython-39.pyc
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/asgi.py
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/settings.py
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/urls.py
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/views.py
+python/Django/DATABASE_MYSQL/DATABASE_MYSQL/wsgi.py
+python/Django/DATABASE_MYSQL/db.sqlite3
+python/Django/DATABASE_MYSQL/manage.py
+python/Django/DATABASE_MYSQL/mysqlPractice/__init__.py
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/__init__.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/admin.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/apps.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/models.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/urls.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/__pycache__/views.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/admin.py
+python/Django/DATABASE_MYSQL/mysqlPractice/apps.py
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/0001_initial.py
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/0002_book_price.py
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/0003_auto_20211012_2237.py
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/__init__.py
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/__pycache__/0001_initial.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/__pycache__/0002_book_price.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/__pycache__/0003_auto_20211012_2237.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/migrations/__pycache__/__init__.cpython-39.pyc
+python/Django/DATABASE_MYSQL/mysqlPractice/models.py
+python/Django/DATABASE_MYSQL/mysqlPractice/static/style.css
+python/Django/DATABASE_MYSQL/mysqlPractice/templates/base.html
+python/Django/DATABASE_MYSQL/mysqlPractice/templates/index.html
+python/Django/DATABASE_MYSQL/mysqlPractice/tests.py
+python/Django/DATABASE_MYSQL/mysqlPractice/urls.py
+python/Django/DATABASE_MYSQL/mysqlPractice/views.py
+python/Django/GUI/GUI/__init__.py
+python/Django/GUI/GUI/__pycache__/__init__.cpython-39.pyc
+python/Django/GUI/GUI/__pycache__/settings.cpython-39.pyc
+python/Django/GUI/GUI/__pycache__/urls.cpython-39.pyc
+python/Django/GUI/GUI/__pycache__/wsgi.cpython-39.pyc
+python/Django/GUI/GUI/asgi.py
+python/Django/GUI/GUI/settings.py
+python/Django/GUI/GUI/urls.py
+python/Django/GUI/GUI/wsgi.py
+python/Django/GUI/PC_BUILD/__init__.py
+python/Django/GUI/PC_BUILD/__pycache__/__init__.cpython-39.pyc
+python/Django/GUI/PC_BUILD/__pycache__/admin.cpython-39.pyc
+python/Django/GUI/PC_BUILD/__pycache__/apps.cpython-39.pyc
+python/Django/GUI/PC_BUILD/__pycache__/models.cpython-39.pyc
+python/Django/GUI/PC_BUILD/__pycache__/urls.cpython-39.pyc
+python/Django/GUI/PC_BUILD/__pycache__/views.cpython-39.pyc
+python/Django/GUI/PC_BUILD/admin.py
+python/Django/GUI/PC_BUILD/apps.py
+python/Django/GUI/PC_BUILD/migrations/__init__.py
+python/Django/GUI/PC_BUILD/migrations/__pycache__/__init__.cpython-39.pyc
+python/Django/GUI/PC_BUILD/models.py
+python/Django/GUI/PC_BUILD/static/corei3.jpg
+python/Django/GUI/PC_BUILD/static/corei5.jpg
+python/Django/GUI/PC_BUILD/static/corei7.jpg
+python/Django/GUI/PC_BUILD/static/pic1.webp
+python/Django/GUI/PC_BUILD/static/style.css
+python/Django/GUI/PC_BUILD/templates/base.html
+python/Django/GUI/PC_BUILD/templates/pcIndex.html
+python/Django/GUI/PC_BUILD/tests.py
+python/Django/GUI/PC_BUILD/urls.py
+python/Django/GUI/PC_BUILD/views.py
+python/Django/GUI/db.sqlite3
+python/Django/GUI/manage.py
+python/Django/mysite/calender/__init__.py
+python/Django/mysite/calender/__pycache__/__init__.cpython-39.pyc
+python/Django/mysite/calender/__pycache__/urls.cpython-39.pyc
+python/Django/mysite/calender/__pycache__/views.cpython-39.pyc
+python/Django/mysite/calender/admin.py
+python/Django/mysite/calender/apps.py
+python/Django/mysite/calender/migrations/__init__.py
+python/Django/mysite/calender/models.py
+python/Django/mysite/calender/templates/buttonClicked.html
+python/Django/mysite/calender/templates/calenderIndex.html
+python/Django/mysite/calender/tests.py
+python/Django/mysite/calender/urls.py
+python/Django/mysite/calender/views.py
+python/Django/mysite/college/__init__.py
+python/Django/mysite/college/__pycache__/__init__.cpython-39.pyc
+python/Django/mysite/college/__pycache__/urls.cpython-39.pyc
+python/Django/mysite/college/__pycache__/views.cpython-39.pyc
+python/Django/mysite/college/admin.py
+python/Django/mysite/college/apps.py
+python/Django/mysite/college/migrations/__init__.py
+python/Django/mysite/college/models.py
+python/Django/mysite/college/templates/base.html
+python/Django/mysite/college/templates/collegeIndex.html
+python/Django/mysite/college/templates/syallabus.html
+python/Django/mysite/college/tests.py
+python/Django/mysite/college/urls.py
+python/Django/mysite/college/views.py
+python/Django/mysite/db.sqlite3
+python/Django/mysite/gaurav/__init__.py
+python/Django/mysite/gaurav/__pycache__/__init__.cpython-39.pyc
+python/Django/mysite/gaurav/__pycache__/urls.cpython-39.pyc
+python/Django/mysite/gaurav/__pycache__/views.cpython-39.pyc
+python/Django/mysite/gaurav/admin.py
+python/Django/mysite/gaurav/apps.py
+python/Django/mysite/gaurav/migrations/__init__.py
+python/Django/mysite/gaurav/models.py
+python/Django/mysite/gaurav/tests.py
+python/Django/mysite/gaurav/urls.py
+python/Django/mysite/gaurav/views.py
+python/Django/mysite/manage.py
+python/Django/mysite/mysite/__init__.py
+python/Django/mysite/mysite/__pycache__/__init__.cpython-39.pyc
+python/Django/mysite/mysite/__pycache__/settings.cpython-39.pyc
+python/Django/mysite/mysite/__pycache__/urls.cpython-39.pyc
+python/Django/mysite/mysite/__pycache__/views.cpython-39.pyc
+python/Django/mysite/mysite/__pycache__/wsgi.cpython-39.pyc
+python/Django/mysite/mysite/asgi.py
+python/Django/mysite/mysite/settings.py
+python/Django/mysite/mysite/urls.py
+python/Django/mysite/mysite/views.py
+python/Django/mysite/mysite/wsgi.py
+python/Django/mysite/templates/index.html
+python/advancePython/1_TryAndExcept.py
+python/advancePython/2_Enumurate.py
+python/advancePython/3_Filter.py
+python/advancePython/rough.py
+python/fileHandling/data.txt
+python/fileHandling/dataFetch.py
+python/fileHandling/tempCodeRunnerFile.py
+python/flask
+python/index.html
+python/numpy/rough.py
+python/python_in_one_video/01_variable.py
+python/python_in_one_video/02_operators.py
+python/python_in_one_video/Countries.txt
+python/python_in_one_video/Q1.py
+python/python_in_one_video/Q2.py
+python/python_in_one_video/Q3.py
+python/python_in_one_video/Q5.py
+python/python_in_one_video/Q6.py
+python/python_in_one_video/dict.py
+python/python_in_one_video/linkedList.py
+python/python_in_one_video/oops.py
+python/python_in_one_video/practice_set_1.py
+python/python_in_one_video/rough.py
+python/python_in_one_video/stringClass.py
+python/python_in_one_video/tempCodeRunnerFile.py
+python/pythonpractice/.idea/.gitignore
+python/pythonpractice/.idea/inspectionProfiles/profiles_settings.xml
+python/pythonpractice/.idea/misc.xml
+python/pythonpractice/.idea/modules.xml
+python/pythonpractice/.idea/pythonpractice.iml
+python/pythonpractice/.vscode/settings.json
+python/pythonpractice/2dlist.py
+python/pythonpractice/binarySearchTree.py
+python/pythonpractice/bits.py
+python/pythonpractice/bits2.py
+python/pythonpractice/extend.py
+python/pythonpractice/graphBFS.py
+python/pythonpractice/jailer.py
+python/pythonpractice/largestOnePair.py
+python/pythonpractice/lastElement.py
+python/pythonpractice/linkedList.py
+python/pythonpractice/longest_palindrome.py
+python/pythonpractice/meaning.txt
+python/pythonpractice/mergeSort.py
+python/pythonpractice/pandey_palindrome.py
+python/pythonpractice/permutation.py
+python/pythonpractice/permutations.py
+python/pythonpractice/python.py
+python/pythonpractice/rough.py
+python/pythonpractice/tejas.py
+python/pythonpractice/tempCodeRunnerFile.py
+python/pythonpractice/utkarsh.js
+python/pythonpractice/vocabulary.py
+python/pythonpractice/word.txt
+some random data/arsdContest/DfsGraph.class
+some random data/arsdContest/Graph.class
+some random data/arsdContest/rough.py
+some random data/arsdContest/walk.class
+some random data/arsdContest/walk.java
+some random data/bittu/bittu5.py
+some random data/bittu/code1.py
+some random data/bittu/data.txt
+some random data/bittu/freCount.py
+some random data/bittu/problem.class
+some random data/bittu/problem.java
+some random data/bittu/rough.class
+some random data/bittu/rough.py
+some random data/bittu/satyam.py
+some random data/bittu/sol.py
+some random data/bittu/sol1.txt
+some random data/bittu/tcsCodeVitaA.py
+some random data/bittu/tcsCodeVitaB.py
+some random data/contest/AtmPin.py
+some random data/contest/data.txt
+some random data/contest/handwriting.png
+some random data/contest/image.png
+some random data/contest/inhertence.py
+some random data/contest/itretor.py
+some random data/contest/rough.py
+some random data/contest/textToHand.py
+some random data/contest/vowels.py
+some random data/contest/yeild.py
+some random data/js import export/2_2.py
+some random data/js import export/c.py
+some random data/js import export/check.py
+some random data/js import export/jsxRandom.js
+some random data/js import export/nestedFunction.py
+some random data/js import export/tempCodeRunnerFile.py
+some random data/python mysql/__pycache__/generator.cpython-39.pyc
+some random data/python mysql/dataFetchApi.py
+some random data/python mysql/departmentNames.txt
+some random data/python mysql/departmentQuery.txt
+some random data/python mysql/employeeQuery.txt
+some random data/python mysql/generator.py
+some random data/python mysql/indiaCity.txt
+some random data/python mysql/jobs.txt
+some random data/python mysql/names.txt
+some random data/python mysql/tempCodeRunnerFile.py
+some random data/quickCheck/evenOdd.py
+some random data/rankfind/convert.py
+some random data/rankfind/data.txt
+some random data/rankfind/mainData.txt
+some random data/rankfind/namrata.py
+some random data/rankfind/ratio.py
+some random data/rankfind/rough.py
+some random data/rankfind/tempCodeRunnerFile.py
+some random data/rohit/Q5.cpp
+some random data/rohit/Q5.exe
+some random data/screenshot/Screenshot 2022-03-13 212505.png
+some random data/screenshot/Screenshot 2022-03-13 212547.png
+some random data/screenshot/Screenshot 2022-03-13 212607.png
+some random data/screenshot/Screenshot 2022-03-13 212649.png
+some random data/screenshot/Screenshot 2022-03-13 212745.png
+some random data/screenshot/Screenshot 2022-03-13 212818.png
+some random data/screenshot/Screenshot 2022-03-13 212854.png
+some random data/screenshot/Screenshot 2022-03-13 212918.png
+some random data/screenshot/Screenshot 2022-03-13 212953.png
+some random data/simpLite/.vscode/settings.json
+some random data/simpLite/Account.class
+some random data/simpLite/Employee.class
+some random data/simpLite/Person.class
+some random data/simpLite/dice.py
+some random data/simpLite/h.py
+some random data/simpLite/heap.py
+some random data/simpLite/histogram.py
+some random data/simpLite/rohitClass.class
+some random data/simpLite/rohitClass.cpp
+some random data/simpLite/rohitClass.exe
+some random data/simpLite/rohitClass.java
+some random data/simpLite/rough.class
+some random data/simpLite/rough.java
+some random data/simpLite/santosh.py
+some random data/simpLite/tempCodeRunnerFile.cpp
+some random data/simpLite/tempCodeRunnerFile.java
+some random data/simpLite/tempCodeRunnerFile.py
+some random data/ujjwal/firstNnaturalNum.py
+some random data/ujjwal/fun.py
+some random data/ujjwal/list1.py
+some random data/ujjwal/loop.py
+some random data/ujjwal/mahi.py
+some random data/ujjwal/operator.py
+some random data/ujjwal/rou
+some random data/ujjwal/rough.py
+some random data/ujjwal/string.py
+some random data/ujjwal/tempCodeRunnerFile.py
+
+J:\vscodeprogramming>

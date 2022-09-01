@@ -1,0 +1,6 @@
+db.myData.insert(
+    {
+         'name' : "Gaurav",
+        'age'  : 20
+    }
+)
