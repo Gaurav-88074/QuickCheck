@@ -1,2 +1,2 @@
 
-print(d)
+        d[(i,j)] = v
