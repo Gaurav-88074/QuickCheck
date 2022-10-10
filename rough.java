@@ -13,6 +13,7 @@ public class rough {
     public static void main(String[] args) {
         System.out.println();
         TreeSet<Integer> set = new TreeSet<>();
+        
     
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         
