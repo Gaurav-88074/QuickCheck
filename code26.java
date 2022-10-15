@@ -1,7 +1,7 @@
 public class code26 {
     
 }
-class MyCircularQueue {
+class MyCircularQueue{
 
     public MyCircularQueue(int k) {
         
